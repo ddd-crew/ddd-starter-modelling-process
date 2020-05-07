@@ -16,6 +16,8 @@ This process gives you a step-by-step guide for learning and practically applyin
 
 ### 4. Integrate
 
+Suggestion: rename this to "Challenge The Design with concrete use cases"
+
 ### 5. Strategize
 
 ### 6. Design
