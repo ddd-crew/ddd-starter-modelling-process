@@ -24,6 +24,14 @@ This process gives you a step-by-step guide for learning and practically applyin
 
 ### 8. Model
 
+## Contributors
+
+Thank you to the following individuals who have all contributed to the DDD Starter Modelling Process:
+
+- [Gien Verschatse](https://twitter.com/selketjah)
+- [Kacper Gunia](https://github.com/cakper)
+- [Nick Tune](https://github.com/ntcoding)
+
 ## Contributions and Feedback
 
 The Domain-Driven Design Starter Modelling Process is freely available for you to use. In addition, your feedback and ideas are welcome to improve the technique or to create alternative versions. 
