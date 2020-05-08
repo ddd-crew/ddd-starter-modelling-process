@@ -58,29 +58,30 @@ For a great deal of projects there are organisational constraints. If this is th
 Steps 6 and 8 can occur concurrently. This may occur when you are coding a bounded context and the insights you get from writing code for you to change the high-level design.
 
 ## The Process
+This process is composed of 8 steps which are introduced below:
 
-### 1. Orient / Align
-- business model
-- project goals / success metrics
-- user needs / user research
+### 1. Align
+Align our focus with the organisations' business model, the needs of its users, and it's short, medium. and long-term goals.
+
+As a starting point, we recommend [The Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas).
+
+![The Business Model Canvas](resources/business-model-canvas.png)
 
 #### Why
+Every decision we take regarding the architecture, the code, or the organisation has business consequences. In order to design, build, and evolve software systems most effectively, our decisions need to create the optimal business impact, which can only be achieved if we are aligned to the business goals.
 
 #### Tools
-
-- business model canvas
-- product strategy canvas
-- impact mapping
-- wardley mapping
-
-#### How to Facilitate
+- [The Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas)
+- [The Product Strategy Canvas](https://melissaperri.com/blog/2016/07/14/what-is-good-product-strategy)
+- [Impact Mapping](https://www.impactmapping.org/)
+- [Wardley Mapping](https://learnwardleymapping.com/)
 
 #### Who to Involve
-- business stakeholders
-- project sponsor
-- product management
-- C-suite
-- technical leadership
+- Business Stakeholders
+- Product Managers
+- Project Sponsors
+- Senior Management
+- Technology Leadership
 
 ### 2. Discover
 
@@ -181,9 +182,7 @@ Suggestion: rename this to "Challenge The Design with concrete use cases"
 
 #### Tools
 - Bounded Context Canvas
-- Aggregate Design Canvas
-- Design-level EventStorming
-- (((Michael Plod's IOS Standards)))
+- (((Michael Plod's ISO Standards)))
 
 #### How to Facilitate
 
@@ -194,6 +193,8 @@ Suggestion: rename this to "Challenge The Design with concrete use cases"
 #### Why
 
 #### Tools
+- Team Topologies
+- Context Maps
 
 #### How to Facilitate
 
@@ -204,6 +205,8 @@ Suggestion: rename this to "Challenge The Design with concrete use cases"
 #### Why
 
 #### Tools
+- Aggregate Design Canvas
+- Design-level EventStorming
 
 #### How to Facilitate
 
