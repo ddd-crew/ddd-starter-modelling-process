@@ -84,25 +84,30 @@ Every decision we take regarding the architecture, the code, or the organisation
 - Technology Leadership
 
 ### 2. Discover
+Discover the domain visually and collaboratively.
+
+As a starting point, we recommend [EventStorming](https://www.eventstorming.com/).
+
+![EventStorming](resources/event_storming.jpeg)
 
 #### Why
-- create shared understanding of business domain across the whole team
+Spreading domain knowledge through the whole team will create the shared understanding that enables the developers to build a software system aligned to the team and more able to incorporate future business changes. 
+
+Spreading domain knowledge throughout the whole team enables the whole team to contribute ideas for improving the product.
 
 #### Tools
-- EventStorming
-- Domain Storytelling
-- User Journey Mapping
-- Example Mapping
-
-#### How to Facilitate
+- [EventStorming](https://www.eventstorming.com/)
+- [Domain Storytelling](https://domainstorytelling.org/)
+- [User Journey Mapping](https://boagworld.com/audio/customer-journey-mapping/)
+- [Example Mapping](https://cucumber.io/blog/bdd/example-mapping-introduction/)
 
 #### Who to Involve
-- domain experts
-- development team
-- customer support
-- business leadership
-- real users
-- anyone who has knowledge of the domain 
+- Domain Experts
+- Development Team
+- Customer Support
+- Business Leadership
+- Real Users
+- Anyone with Domain Knowledge 
 
 ### 3. Decompose
 
@@ -124,7 +129,7 @@ Every decision we take regarding the architecture, the code, or the organisation
 - software architects
 - software engineers
 
-### 4. Integrate / Challenge
+### 4. Connect
 
 Suggestion: rename this to "Challenge The Design with concrete use cases"
 
