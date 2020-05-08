@@ -4,29 +4,35 @@ This process gives you a step-by-step guide for learning and practically applyin
 
 Using this process will guide you through each of the essential steps in a designing a software system with the DDD mindset, so you can focus on your business challenges and not be overwhelmed by learning DDD at the same time. 
 
-Once you have been through a few iterations of the process you will have the foundational DDD theory and practical experience to go deeper into DDD. Then you will be able to adapt and improve the process to suit your needs in any context. 
+Once you have been through a few iterations of the process you will have the foundational DDD theory and practical experience to go deeper into DDD. Then you will be able to adapt and improve the process to suit your needs in any context. On a real project you'll constantly be jumping back and forth between all of these steps.
 
 > This process is for beginners. It is not a linear sequence of steps that you should standardise as a best practice. Domain-Driven Design is an evolutionary design process which necessitates continuous iteration on all aspects of knowledge and design.
 
 ![DDD Starter Modelling Process](resources/ddd-starter-modelling-process.jpg)
 
-## When to use the DDD Start Modelling Process?
+## When to use the DDD Starter Modelling Process?
+If you're new to DDD or you're just not sure where to start, this process can reduce you're cognitive and guide you through the process in the following scenarios, and possibly others:
 
-- at the start of a greenfield project
+### Kicking Off a Greenfield Project
+At the start of a new project the number of things you need to think about can be overwhelming. One or two iterations of this process can help you put the foundations in place.
 
-- at the start of a brownfield migration
+### Beginning a Brownfield Migration
+Before getting to work on moderinising your legacy system, a few iterations of this process can help you to uncover essential information needed to create a vision for your target architecture.
 
-- kicking off a major program of work
+### Kicking Off a Major Program of Work
+When starting a new initiative that involves a significant investment across many teams, it is essential to cover the 8 steps in the process. This process can guide you through the first few iterations.
 
-- explore your domain for new learning opportunities
+### Explore Your Domain for New Learning Opportunities
+Software development is a learning process. You can apply this process at any time to uncover new insights, identify new opportunities, or simply share knowledge around the team.
 
-- assess current state of a project
+### Assess Current State of Your Project
+This process can be the foundation for assessing how well your current system is aligned to the domain and business model. 
 
-- re-organising teams 
-   - to accelerate software delivery
-   - reduce dependencies 
+### Re-organising Teams
+A loosely-coupled architecture enables teams to work in parallel without being blocked. But a loosely-coupled architecture must be aligned to coupling in the domain. This process will help you to design a software architecture and a team structure aligned with your domain.
 
-- practicing DDD
+### Practicing or Learning DDD
+This process is ideal when you are new to DDD and want to practice or you want to teach others the different aspects of modelling a domain. It's important to communicate that this linear process is not a realistic process, it's just a starting point to reduce cognitive load until you are confident with DDD.
 
 ## How to Adapt the Process?
 On a real project you will find that new information arises and new insights are gained that invalidate the assumptions about the business goals, the domain, or the design of the system. So you will have to re-apply certain steps of the process and possibly in a different order.
@@ -209,6 +215,8 @@ Thank you to the following individuals who have all contributed to the DDD Start
 
 - [Gien Verschatse](https://twitter.com/selketjah)
 - [Kacper Gunia](https://github.com/cakper)
+- [James Morcom](https://twitter.com/morcs)
+- [Maxime Sanglan-Charlier](https://twitter.com/__MaxS__)
 - [Nick Tune](https://github.com/ntcoding)
 
 ## Contributions and Feedback
