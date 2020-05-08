@@ -2,29 +2,206 @@
 
 This process gives you a step-by-step guide for learning and practically applying each aspect of Domain-Driven Design -- from orienting around an organisation's business model to coding a domain model.
 
+Using this process will guide you through each of the essential steps in a designing a software system with the DDD mindset, so you can focus on your business challenges and not be overwhelmed by learning DDD at the same time. 
+
+Once you have been through a few iterations of the process you will have the foundational DDD theory and practical experience to go deeper into DDD. Then you will be able to adapt and improve the process to suit your needs in any context. 
+
 > This process is for beginners. It is not a linear sequence of steps that you should standardise as a best practice. Domain-Driven Design is an evolutionary design process which necessitates continuous iteration on all aspects of knowledge and design.
 
 ![DDD Starter Modelling Process](resources/ddd-starter-modelling-process.jpg)
 
+## When to use the DDD Start Modelling Process?
+
+- at the start of a greenfield project
+
+- at the start of a brownfield migration
+
+- kicking off a major program of work
+
+- explore your domain for new learning opportunities
+
+- assess current state of a project
+
+- re-organising teams 
+   - to accelerate software delivery
+   - reduce dependencies 
+
+- practicing DDD
+
+## How to Adapt the Process?
+On a real project you will find that new information arises and new insights are gained that invalidate the assumptions about the business goals, the domain, or the design of the system. So you will have to re-apply certain steps of the process and possibly in a different order.
+
+There are an infinite number of possibilities for iterating on a design and applying steps in the process. Below are a few examples:
+
+### Start with EventStorming
+...
+
+### Start by Assessing IT Landscape
+...
+
+### Code Before Confirming Architecture and Team Boundaries
+...
+
+### Repeat Steps 2 - 5 Before Moving to 6
+...
+
+### Organise Teams Before Designing Contexts
+...
+
+### Blending Design and Coding
+...
+
 ## The Process
 
-### 1. Orient
+### 1. Orient / Align
+- business model
+- project goals / success metrics
+- user needs / user research
+
+#### Why
+
+#### Tools
+
+- business model canvas
+- product strategy canvas
+- impact mapping
+- wardley mapping
+
+#### How to Facilitate
+
+#### Who to Involve
+- business stakeholders
+- project sponsor
+- product management
+- C-suite
+- technical leadership
 
 ### 2. Discover
 
+#### Why
+- create shared understanding of business domain across the whole team
+
+#### Tools
+- EventStorming
+- Domain Storytelling
+- User Journey Mapping
+- Example Mapping
+
+#### How to Facilitate
+
+#### Who to Involve
+- domain experts
+- development team
+- customer support
+- business leadership
+- real users
+- anyone who has knowledge of the domain 
+
 ### 3. Decompose
 
-### 4. Integrate
+#### Why
+- align software system to business domain so changes are easier 
+- minimise coupling 
+- reduce cognitive load
+
+#### Tools
+- bounded contexts
+- design heuristics
+
+#### How to Facilitate
+
+#### Who to Involve
+- domain experts
+- project managers
+- product managers
+- software architects
+- software engineers
+
+### 4. Integrate / Challenge
 
 Suggestion: rename this to "Challenge The Design with concrete use cases"
 
+#### Why
+- design a system of bounded contexts that work together to fulfill business use cases
+- reduce coupling
+- uncover hidden dependencies
+- validate design
+
+#### Tools
+- domain message flow modelling
+- process-level EventStorming
+- sequence diagrams
+- strategic domain storytelling
+- BPMN
+
+
+#### How to Facilitate
+
+#### Who to Involve
+- software architects
+- software engineers
+- domain experts
+- product managers
+
 ### 5. Strategize
+
+#### Why
+- identify most important areas to focus on
+- analyse existing architecture as IT portfolio
+- decide build-vs-buy
+- anticipate evolution of system
+
+#### Tools
+- Wardley Mapping
+- Core Domain Charts
+- Purpose Alignment Matrix
+
+#### How to Facilitate
+
+#### Who to Involve
+- software architects
+- domain experts
+- business stakeholders
+- product managers
+- software engineers
 
 ### 6. Design
 
+#### Why
+- consider key consequences of the design before building
+- explore alternative models
+- gain shared agreement on design
+- understand how technical limitations will impact business processes
+
+#### Tools
+- Bounded Context Canvas
+- Aggregate Design Canvas
+- Design-level EventStorming
+- (((Michael Plod's IOS Standards)))
+
+#### How to Facilitate
+
+#### Who to Involve
+
 ### 7. Organise
 
+#### Why
+
+#### Tools
+
+#### How to Facilitate
+
+#### Who to Involve
+
 ### 8. Model
+
+#### Why
+
+#### Tools
+
+#### How to Facilitate
+
+#### Who to Involve
 
 ## Contributors
 
