@@ -35,27 +35,27 @@ A loosely-coupled architecture enables teams to work in parallel without being b
 This process is ideal when you are new to DDD and want to practice or you want to teach others the different aspects of modelling a domain. It's important to communicate that this linear process is not a realistic process, it's just a starting point to reduce cognitive load until you are confident with DDD.
 
 ## How to Adapt the Process?
-On a real project you will find that new information arises and new insights are gained that invalidate the assumptions about the business goals, the domain, or the design of the system. So you will have to re-apply certain steps of the process and possibly in a different order.
+This process can be customised an infinite number of ways. On a real project, you'll constantly be switching between all 8 steps based on the new insights you gain or need to gain.
 
-There are an infinite number of possibilities for iterating on a design and applying steps in the process. Below are a few examples:
+Below are a few reasons for deciding when to change the order or switch between steps.
 
-### Start with EventStorming
-...
+### Start with Collaborative Modelling
+If you want to get our whole team collaborating immediately, modelling the domain which they are familiar with might be more comfortable than talking about business models and strategy which they are less comfortable with.
 
 ### Start by Assessing IT Landscape
-...
+Before looking forward to the business vision and going deep into the domain, it might be better to start with step 5 and map out the existing existing architecture as a strategic portfolio to see what the major constraints you will face are.
 
 ### Code Before Confirming Architecture and Team Boundaries
-...
+On some projects it makes sense to start by writing code sooner. Perhaps you need to deliver an MVP or the domain is so complex that creating a model in code is necessary before you can consider the architecture.
 
 ### Repeat Steps 2 - 5 Before Moving to 6
-...
+Before you dive into the design of individual bounded contexts, it may be beneficial to model the domain multiple times and look for a multiple ways to decompose your system into sub-domains.
 
 ### Organise Teams Before Designing Contexts
-...
+For a great deal of projects there are organisational constraints. If this is the case, you should consider identifying possible team structures before designing architectures that you will never be able to implement due to the organisational constraints.
 
 ### Blending Design and Coding
-...
+Steps 6 and 8 can occur concurrently. This may occur when you are coding a bounded context and the insights you get from writing code for you to change the high-level design.
 
 ## The Process
 
