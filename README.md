@@ -110,24 +110,28 @@ Spreading domain knowledge throughout the whole team enables the whole team to c
 - Anyone with Domain Knowledge 
 
 ### 3. Decompose
+Decompose the domain into sub-domains - loosely-coupled parts of the domain.
+
+As a starting point, we recommend [carving up your event storm](resources/event-storm-bounded-context.jpg) into sub-domains.
+
+![Sub-domains on an EventStorm](resources/event_storm_sub_domains.png)*Credit: Alberto Brandolini*
 
 #### Why
-- align software system to business domain so changes are easier 
-- minimise coupling 
-- reduce cognitive load
+We decompose a large problem domain into sub-domains for a few key reasons:
+
+- reduced cognitive load, so that we can reason about parts of the domain independently
+- identifying loose-coupling and high-cohesion in the domain which carries over to our software architecture and team structure
 
 #### Tools
-- bounded contexts
-- design heuristics
-
-#### How to Facilitate
+- [EventStorming with sub-domains](https://www.eventstorming.com/)
+- [Design Heuristics](https://www.dddheuristics.com/)
+- [Business Capability Modelling](https://www.slideshare.net/trondhr/from-capabilities-to-services-modelling-for-businessit-alignment-v2)
 
 #### Who to Involve
-- domain experts
-- project managers
-- product managers
-- software architects
-- software engineers
+- Software Architects
+- Software Engineers
+- Domain Experts
+- Product Managers
 
 ### 4. Connect
 
