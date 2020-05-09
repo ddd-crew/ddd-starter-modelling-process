@@ -125,6 +125,7 @@ We decompose a large problem domain into sub-domains for a few key reasons:
 #### Tools
 - [EventStorming with sub-domains](https://www.eventstorming.com/)
 - [Design Heuristics](https://www.dddheuristics.com/)
+- [Independent Service Heuristics](https://github.com/TeamTopologies/Independent-Service-Heuristics)
 - [Business Capability Modelling](https://www.slideshare.net/trondhr/from-capabilities-to-services-modelling-for-businessit-alignment-v2)
 
 #### Who to Involve
