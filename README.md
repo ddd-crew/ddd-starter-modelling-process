@@ -134,52 +134,50 @@ We decompose a large problem domain into sub-domains for a few key reasons:
 - Product Managers
 
 ### 4. Connect
-
-Suggestion: rename this to "Challenge The Design with concrete use cases"
+Connect the sub-domains into a loosely-coupled architecture which fulfills end-to-end business use-cases.
 
 #### Why
-- design a system of bounded contexts that work together to fulfill business use cases
-- reduce coupling
-- uncover hidden dependencies
-- validate design
+It is imperative to not only decompose a large domain into parts but to also carefully design the interactions between those parts to minimise unwanted coupling and complexity. It is necessary to challenge the initial design by applying concrete use-cases to uncover hidden complexity.
 
+As a starting point, we recommend [Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling).
+
+![Domain Message Flow Modelling](resources/domain-message-flow.jpg).
 #### Tools
-- domain message flow modelling
-- process-level EventStorming
-- sequence diagrams
-- strategic domain storytelling
-- BPMN
-
-
-#### How to Facilitate
+- [Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling)
+- [Process Modelling EventStorming](https://www.eventstorming.com/)
+- [Sequence Diagrams](https://en.wikipedia.org/wiki/Sequence_diagram)
+- [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
 
 #### Who to Involve
-- software architects
-- software engineers
-- domain experts
-- product managers
+- Software Architects
+- Software Engineers
+- Domain Experts
+- Product Managers
 
 ### 5. Strategize
+Strategically map out your sub-domains to identify core domains: the parts of the domain which have the greatest potential for business differentiation or strategic significance.
 
 #### Why
-- identify most important areas to focus on
-- analyse existing architecture as IT portfolio
-- decide build-vs-buy
-- anticipate evolution of system
+Time and resources are limited so understanding which parts of the domain to focus on is critical to delivering optimal business impact. 
+
+By understanding what your core domains are, you will have a better idea of how much quality and rigour to each part of your system, and you'll be able to make highly-educated build vs buy vs outsource decisions.
+
+As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts).
+
+![Core Domain Charts](resources/core-domain-chart.jpg)
 
 #### Tools
-- Wardley Mapping
-- Core Domain Charts
-- Purpose Alignment Matrix
-
-#### How to Facilitate
+- [Wardley Mapping](https://learnwardleymapping.com/)
+- [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)
+- [Purpose Alignment Model](https://www.informit.com/articles/article.aspx?p=1384195&seqNum=2)
 
 #### Who to Involve
-- software architects
-- domain experts
-- business stakeholders
-- product managers
-- software engineers
+- Software Architects
+- Software engineers
+- Technology Leadership
+- Domain Experts
+- Business Stakeholders
+- Product Managers
 
 ### 6. Design
 
@@ -229,6 +227,7 @@ Thank you to the following individuals who have all contributed to the DDD Start
 - [Kacper Gunia](https://github.com/cakper)
 - [James Morcom](https://twitter.com/morcs)
 - [Maxime Sanglan-Charlier](https://twitter.com/__MaxS__)
+- [Michael Plöd](https://twitter.com/bitboss?lang=en)
 - [Nick Tune](https://github.com/ntcoding)
 
 ## Contributions and Feedback
