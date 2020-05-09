@@ -180,20 +180,26 @@ As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-cr
 - Product Managers
 
 ### 6. Design
+Design a software architecture aligned to sub-domains in the domain using [bounded contexts](https://martinfowler.com/bliki/BoundedContext.html).
+
+As a starting point, we recommend the [Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas).
+
+![Bounded Context Canvas](resources/bounded-context-canvas-v3.jpeg)
 
 #### Why
-- consider key consequences of the design before building
-- explore alternative models
-- gain shared agreement on design
-- understand how technical limitations will impact business processes
+Before committing to a design, make explicit decisions about the design choices which can have a significant impact on the overall design. Have these conversations early while it is still easy to change your mind and explore alternative models.
+
+Design collaboratively and visually and start to consider the technical limitations so that you can uncover constraints or opportunities. 
 
 #### Tools
-- Bounded Context Canvas
-- (((Michael Plod's ISO Standards)))
+- [Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas)
+- [Quality Storming](https://speakerdeck.com/mploed/quality-storming)
 
-#### How to Facilitate
 
 #### Who to Involve
+- Software Engineers
+- Development Team
+- Product Managers
 
 ### 7. Organise
 
