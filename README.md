@@ -2,7 +2,7 @@
 
 This process gives you a step-by-step guide for learning and practically applying each aspect of Domain-Driven Design - from orienting around an organisation's business model to coding a domain model.
 
-Using this process will guide you through each of the essential steps in a designing a software system with the DDD mindset, so you can focus on your business challenges and not be overwhelmed by learning DDD at the same time. 
+Using this process will guide you through each of the essential steps in designing a software system with the DDD mindset, so you can focus on your business challenges and not be overwhelmed by learning DDD at the same time. 
 
 Once you have been through a few iterations of the process you will have the foundational DDD theory and practical experience to go deeper into DDD. Then you will be able to adapt and improve the process to suit your needs in any context. On a real project you'll often be jumping back and forth between these steps.
 
