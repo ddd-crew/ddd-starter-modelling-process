@@ -176,28 +176,7 @@ As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-cr
 - Software Engineers
 - Technology Leadership
 
-### 6. Design
-Design a software architecture aligned to sub-domains in the domain using [bounded contexts](https://martinfowler.com/bliki/BoundedContext.html).
-
-Before committing to a design, make explicit decisions about the choices which can have a significant impact on the overall design. Have these conversations early while it is still easy to change your mind and explore alternative models.
-
-Design collaboratively and visually and start to consider the technical limitations so that you can uncover constraints or opportunities. 
-
-As a starting point, we recommend the [Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas).
-
-![Bounded Context Canvas](resources/bounded-context-canvas-v3.jpeg)
-
-#### Tools
-- [Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas)
-- [C4 System Context Diagram](https://c4model.com/)
-- [Quality Storming](https://speakerdeck.com/mploed/quality-storming)
-
-#### Who to Involve
-- Product Managers
-- Software Architects
-- Software Engineers
-
-### 7. Organise
+### 6. Organise
 Organise autonomous teams that are optimised for fast flow and aligned with context boundaries.
 
 We need to organise teams to have autonomy, clear goals and sense of purpose. In order to do that we need to take into account organisational constraints, so that we can organise teams for fast flow. 
@@ -219,6 +198,27 @@ As a starting point, we recommend visualising sociotechnial architecture with th
 - Software Architects
 - Product Managers
 - Senior Leadership
+
+### 7. Define
+Define the roles and responsibilities of each [bounded context](https://martinfowler.com/bliki/BoundedContext.html).
+
+Before committing to a design, make explicit decisions about the choices which can have a significant impact on the overall design. Have these conversations early while it is still easy to change your mind and explore alternative models.
+
+Design collaboratively and visually and start to consider the technical limitations so that you can uncover constraints or opportunities. 
+
+As a starting point, we recommend the [Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas).
+
+![Bounded Context Canvas](resources/bounded-context-canvas-v3.jpeg)
+
+#### Tools
+- [Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas)
+- [C4 System Context Diagram](https://c4model.com/)
+- [Quality Storming](https://speakerdeck.com/mploed/quality-storming)
+
+#### Who to Involve
+- Product Managers
+- Software Architects
+- Software Engineers
 
 ### 8. Code
 Code the domain model. 
