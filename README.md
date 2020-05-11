@@ -48,14 +48,14 @@ Before looking forward to the business vision and going deep into the domain, it
 ### Code Before Confirming Architecture and Team Boundaries
 On some projects it makes sense to start by writing code sooner. Perhaps you need to deliver an MVP or the domain is so complex that creating a model in code is necessary before you can consider the architecture.
 
-### Repeat Steps 2 (Discover) - 5 (Strategize) Before Moving to 6 (Design)
-Before you dive into the design of individual bounded contexts, it may be beneficial to model the domain multiple times and look for different ways to decompose your system into sub-domains.
+### Repeat Steps 2 (Discover) - 6 (Organise) Before Moving to 7 (Define)
+Before you dive into the definition of individual bounded contexts, it may be beneficial to model the domain multiple times and look for different ways to decompose your system into sub-domains and teams.
 
 ### Organise Teams Before Designing Contexts
 For a great deal of projects there are organisational constraints that we need to take into account. If this is the case, you should consider identifying possible team structures before designing architectures that you will never be able to implement.
 
-### Blending Design and Coding
-Steps 6 (Design) and 8 (Code) can occur concurrently. This may happen when you are coding a bounded context, and the insights you get from writing code make you change the high-level design.
+### Blending Definition and Coding
+Steps 7 (Define) and 8 (Code) can occur concurrently. This may happen when you are coding a bounded context, and the insights you get from writing code make you change the high-level design.
 
 ## The Process
 This process is composed of 8 steps which are introduced below:
