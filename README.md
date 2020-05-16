@@ -182,7 +182,13 @@ As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-cr
 ### 6. Organise
 Organise autonomous teams that are optimised for fast flow and aligned with context boundaries.
 
-We need to organise teams to have autonomy, clear goals and sense of purpose. In order to do that we need to take into account organisational constraints, so that we can organise teams for fast flow. 
+Teams need to be organised to have autonomy, clear goals and sense of purpose. In order to do that we need to take into account organisational constraints, so that teams organise themselves for fast flow. 
+
+> #### Team Self-organisation
+>
+> Organisation is not something that is done to teams, rather teams should be involved in the process of defining their boundaries, interactions, and responsibilities.
+>
+> Some companies like Red Gate Software empower and trust their teams to [fully organise themselves](https://medium.com/ingeniouslysimple/how-redgate-ran-its-first-team-self-selection-process-4bfac721ae2.).
 
 We can optimise how people collaborate with each other if we align teams with context boundaries. In order to right-size the teams we need to take into account available talent, cognitive load, communication overhead, and bus factor. 
 
