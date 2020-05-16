@@ -127,7 +127,7 @@ We decompose a large problem domain into sub-domains for a few key reasons:
 - give development teams autonomy, so that they can work on separate parts of the solution,
 - identifying loose-coupling and high-cohesion in the domain which carries over to our software architecture and team structure.
 
-As a starting point, we recommend [carving up your event storm](resources/event-storm-bounded-context.jpg) into sub-domains and [Context Maps]https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps?slide=33)
+As a starting point, we recommend [carving up your event storm](resources/event-storm-bounded-context.jpg) into sub-domains and [Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps?slide=33).
 
 ![Sub-domains on an EventStorm](resources/event_storm_sub_domains.png)*Credit: Alberto Brandolini*
 
