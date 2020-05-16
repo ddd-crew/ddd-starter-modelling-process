@@ -78,11 +78,9 @@ As a starting point, we recommend [The Business Model Canvas](https://www.strate
 - [Wardley Mapping](https://learnwardleymapping.com/)
 
 #### Who to Involve
-- Business Stakeholders
-- Product Managers
-- Project Sponsors
-- Senior Management
-- Technology Leadership
+- People who design, build, test software
+- People who have domain knowledge
+- People who understand product and business strategy
 
 ### 2. Discover
 Discover the domain visually and collaboratively.
@@ -112,12 +110,11 @@ As a starting point, we recommend [EventStorming](https://www.eventstorming.com/
 - [User Journey Mapping](https://boagworld.com/audio/customer-journey-mapping/)
 
 #### Who to Involve
-- Anyone with Domain Knowledge 
-- Business Leadership
-- Customer Support
-- Domain Experts
-- Development Team
-- Real Users
+- People who design, build, test software
+- People who have domain knowledge
+- People who understand product and business strategy
+- People who understand the customers' needs and problems
+- Real end users
 
 ### 3. Decompose
 Decompose the domain into sub-domains - loosely-coupled parts of the domain.
@@ -139,10 +136,8 @@ As a starting point, we recommend [carving up your event storm](resources/event-
 - [Visualising Sociotechnical Architecture with Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps)
 
 #### Who to Involve
-- Domain Experts
-- Product Managers
-- Software Architects
-- Software Engineers
+- People who design, build, test software
+- People who have domain knowledge
 
 ### 4. Connect
 Connect the sub-domains into a loosely-coupled architecture which fulfills end-to-end business use-cases.
@@ -160,10 +155,8 @@ As a starting point, we recommend [Domain Message Flow Modelling](https://github
 - [Sequence Diagrams](https://en.wikipedia.org/wiki/Sequence_diagram)
 
 #### Who to Involve
-- Domain Experts
-- Product Managers
-- Software Architects
-- Software Engineers
+- People who design, build, test software
+- People who have domain knowledge
 
 ### 5. Strategize
 Strategically map out your sub-domains to identify core domains: the parts of the domain which have the greatest potential for business differentiation or strategic significance.
@@ -182,12 +175,9 @@ As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-cr
 - [Wardley Mapping](https://learnwardleymapping.com/)
 
 #### Who to Involve
-- Domain Experts
-- Business Stakeholders
-- Product Managers
-- Software Architects
-- Software Engineers
-- Technology Leadership
+- People who understand product and business strategy
+- People who design, build, test software
+- People who have domain knowledge
 
 ### 6. Organise
 Organise autonomous teams that are optimised for fast flow and aligned with context boundaries.
@@ -207,10 +197,9 @@ As a starting point, we recommend visualising sociotechnial architecture with th
 - [Visualising Sociotechnical Architecture with Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps)
 
 #### Who to Involve
-- Human Resources
-- Software Architects
-- Product Managers
-- Senior Leadership
+- People who design, build, test software
+- People who have domain knowledge
+- People who understand product and business strategy
 
 ### 7. Define
 Define the roles and responsibilities of each [bounded context](https://martinfowler.com/bliki/BoundedContext.html).
@@ -229,9 +218,9 @@ As a starting point, we recommend the [Bounded Context Canvas](https://github.co
 - [Quality Storming](https://speakerdeck.com/mploed/quality-storming)
 
 #### Who to Involve
-- Product Managers
-- Software Architects
-- Software Engineers
+- People who design, build, test software
+- People who have domain knowledge
+- People who are responsible for the product
 
 ### 8. Code
 Code the domain model. 
@@ -254,9 +243,7 @@ As a starting point, we recommend the [Aggregate Design Canvas](https://github.c
 - [Unified Modelling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
 
 #### Who to Involve
-- Development Team
-- Domain Experts
-- Software Architects
+- People who design, build, test software
 
 ## Contributors
 
