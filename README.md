@@ -136,6 +136,7 @@ As a starting point, we recommend [carving up your event storm](resources/event-
 - [Design Heuristics](https://www.dddheuristics.com/)
 - [EventStorming with sub-domains](https://www.eventstorming.com/)
 - [Independent Service Heuristics](https://github.com/TeamTopologies/Independent-Service-Heuristics)
+- [Visualising Sociotechnical Architecture with Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps)
 
 #### Who to Involve
 - Domain Experts
