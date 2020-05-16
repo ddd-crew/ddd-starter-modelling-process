@@ -252,6 +252,7 @@ Thank you to the following individuals who have all contributed to the DDD Start
 - [Ciaran McNulty](https://github.com/ciaranmcnulty)
 - [Gien Verschatse](https://twitter.com/selketjah)
 - [Kacper Gunia](https://github.com/cakper)
+- [Krisztina Hirth](https://github.com/yellowbrickc)
 - [James Morcom](https://twitter.com/morcs)
 - [Maxime Sanglan-Charlier](https://twitter.com/__MaxS__)
 - [Michael Plöd](https://twitter.com/bitboss?lang=en)
