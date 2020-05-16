@@ -61,9 +61,11 @@ Steps 7 (Define) and 8 (Code) can occur concurrently. This may happen when you a
 This process is composed of 8 steps which are introduced below:
 
 ### 1. Align
-Align our focus with the organisations' business model, the needs of its users, and its short, medium, and long-term goals.
+Align our focus with the organisation's business model, the needs of its users, and its short, medium, and long-term goals.
 
 Every decision we take regarding the architecture, the code, or the organisation has business consequences. In order to design, build, and evolve software systems most effectively, our decisions need to create the optimal business impact, which can only be achieved if we are aligned to the business goals.
+
+Badly designed architecture and/or boundaries can have a negative impact or even make it impossible to achieve these goals.
 
 As a starting point, we recommend [The Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas).
 
