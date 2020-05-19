@@ -304,6 +304,7 @@ Thank you to the following individuals who have all contributed to the DDD Start
 - [Maxime Sanglan-Charlier](https://twitter.com/__MaxS__)
 - [Michael Plöd](https://twitter.com/bitboss?lang=en)
 - [Nick Tune](https://github.com/ntcoding)
+- [Eduardo da Silva](https://github.com/emgsilva)
 
 ## Contributions and Feedback
 
