@@ -297,14 +297,14 @@ As a starting point, we recommend the [Aggregate Design Canvas](https://github.c
 Thank you to the following individuals who have all contributed to the DDD Starter Modelling Process:
 
 - [Ciaran McNulty](https://github.com/ciaranmcnulty)
+- [Eduardo da Silva](https://github.com/emgsilva)
 - [Gien Verschatse](https://twitter.com/selketjah)
-- [Kacper Gunia](https://github.com/cakper)
+- [Kacper Gunia](https://twitter.com/cakper)
 - [Krisztina Hirth](https://github.com/yellowbrickc)
 - [James Morcom](https://twitter.com/morcs)
 - [Maxime Sanglan-Charlier](https://twitter.com/__MaxS__)
 - [Michael Plöd](https://twitter.com/bitboss?lang=en)
 - [Nick Tune](https://github.com/ntcoding)
-- [Eduardo da Silva](https://github.com/emgsilva)
 
 ## Contributions and Feedback
 
