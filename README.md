@@ -225,9 +225,9 @@ Teams need to be organised to have autonomy, clear goals and sense of purpose. I
 
 We can optimise how people collaborate with each other if we align teams with context boundaries. In order to right-size the teams we need to take into account available talent, cognitive load, communication overhead, and bus factor. 
 
-As a starting point, we recommend visualising sociotechnial architecture with the [Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps).
+As a starting point, we recommend visualising sociotechnial architecture with the [Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps). A brief overview of the most important patterns can be found under the [context-mapping](https://github.com/ddd-crew/context-mapping) GitHub Project.
 
-![Context Map](resources/context-map.jpg)*Credit: Michael Plöd*
+![Context Map](resources/context-map-cheat-sheet.png)*Credit: Michael Plöd*
 
 #### Tools
 
