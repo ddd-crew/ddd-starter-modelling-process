@@ -221,7 +221,7 @@ Teams need to be organised to have autonomy, clear goals and sense of purpose. I
 >
 > Organisation is not something that is done to teams, rather teams should be involved in the process of defining their boundaries, interactions, and responsibilities.
 >
-> Some companies like Red Gate Software empower and trust their teams to [fully organise themselves](https://medium.com/ingeniouslysimple/how-redgate-ran-its-first-team-self-selection-process-4bfac721ae2.).
+> Some companies like Red Gate Software empower and trust their teams to [fully organise themselves](https://medium.com/ingeniouslysimple/how-redgate-ran-its-first-team-self-selection-process-4bfac721ae2).
 
 We can optimise how people collaborate with each other if we align teams with context boundaries. In order to right-size the teams we need to take into account available talent, cognitive load, communication overhead, and bus factor. 
 
