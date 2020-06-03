@@ -99,7 +99,7 @@ As a starting point, we recommend [The Business Model Canvas](https://www.strate
 
 - People who design, build, test software
 - People who have domain knowledge
-- People who understand product and business strategy
+- People who understand the product and business strategy
 
 ### 2. Discover
 
@@ -109,7 +109,7 @@ This is the most crucial aspect of DDD. You cannot skip discovery. If your whole
 
 Spreading domain knowledge through the whole team will create a shared understanding. It enables the developers to build a software system aligned to the domain which can be more flexible to incorporate future business changes. 
 
-Ensuring that domain knowledge is spread across the whole team enables its members to contribute ideas for improving the product.
+Ensuring that domain knowledge is spread across the whole team enables its members to contribute with ideas for improving the product.
 
 > #### Discovery is Continuous
 >
@@ -225,7 +225,7 @@ Teams need to be organised to have autonomy, clear goals and sense of purpose. I
 
 We can optimise how people collaborate with each other if we align teams with context boundaries. In order to right-size the teams we need to take into account available talent, cognitive load, communication overhead, and bus factor. 
 
-As a starting point, we recommend visualising sociotechnial architecture with the [Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps). A brief overview of the most important patterns can be found under the [context-mapping](https://github.com/ddd-crew/context-mapping) GitHub Project.
+As a starting point, we recommend visualising sociotechnical architecture with the [Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps). A brief overview of the most important patterns can be found under the [context-mapping](https://github.com/ddd-crew/context-mapping) GitHub Project.
 
 ![Context Map](resources/context-map-cheat-sheet.png)*Credit: Michael Plöd*
 
@@ -240,7 +240,7 @@ As a starting point, we recommend visualising sociotechnial architecture with th
 
 - People who design, build, test software
 - People who have domain knowledge
-- People who understand product and business strategy
+- People who understand the product and business strategy
 
 ### 7. Define
 
@@ -294,17 +294,13 @@ As a starting point, we recommend the [Aggregate Design Canvas](https://github.c
 
 ## Contributors
 
-Thank you to the following individuals who have all contributed to the DDD Starter Modelling Process:
+Thanks to all [existing and future contributors](https://github.com/ddd-crew/ddd-starter-modelling-process/graphs/contributors) and to the following individuals who have all contributed to the DDD Starter Modelling Process:
 
 - [Ciaran McNulty](https://github.com/ciaranmcnulty)
 - [Eduardo da Silva](https://github.com/emgsilva)
 - [Gien Verschatse](https://twitter.com/selketjah)
-- [Kacper Gunia](https://twitter.com/cakper)
-- [Krisztina Hirth](https://github.com/yellowbrickc)
 - [James Morcom](https://twitter.com/morcs)
 - [Maxime Sanglan-Charlier](https://twitter.com/__MaxS__)
-- [Michael Plöd](https://twitter.com/bitboss?lang=en)
-- [Nick Tune](https://github.com/ntcoding)
 
 ## Contributions and Feedback
 
