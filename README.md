@@ -10,6 +10,34 @@ Once you have been through a few iterations of the process you will have the fou
 
 ![DDD Starter Modelling Process](resources/ddd-starter-modelling-process.jpg)
 
+__Navigation:__
+
+* [When to use the DDD Starter Modelling Process?](#when-to-use-the-ddd-starter-modelling-process)
+  * [Kicking Off a Greenfield Project](#kicking-off-a-greenfield-project)
+  * [Beginning a Brownfield Migration](#beginning-a-brownfield-migration)
+  * [Kicking Off a Major Program of Work](#kicking-off-a-major-program-of-work)
+  * [Explore Your Domain for New Learning Opportunities](#explore-your-domain-for-new-learning-opportunities)
+  * [Assess Current State of Your Project](#assess-current-state-of-your-project)
+  * [Practicing or Learning DDD](#practicing-or-learning-ddd)
+* [How to Adapt the Process?](#how-to-adapt-the-process)
+  * [Start with Collaborative Modelling](#start-with-collaborative-modelling)
+  * [Start by Assessing IT Landscape](#start-by-assessing-it-landscape)
+  * [Code Before Confirming Architecture and Team Boundaries](#code-before-confirming-architecture-and-team-boundaries)
+  * [Repeat Steps 2 (Discover) - 6 (Organise) Before Moving to 7 (Define)](#repeat-steps-2-discover---6-organise-before-moving-to-7-define)
+  * [Organise Teams Before Designing Contexts](#organise-teams-before-designing-contexts)
+  * [Blending Definition and Coding](#blending-definition-and-coding)
+* [The Process](#the-process)
+  * [1. Align](#1-align)
+  * [2. Discover](#2-discover)
+  * [3. Decompose](#3-decompose)
+  * [4. Connect](#4-connect)
+  * [5. Strategize](#5-strategize)
+  * [6. Organise](#6-organise)
+  * [7. Define](#7-define)
+  * [8. Code](#8-code)
+* [Contributors](#contributors)
+* [Contributions and Feedback](#contributions-and-feedback)
+
 ## When to use the DDD Starter Modelling Process?
 
 If you're new to DDD or just not sure where to start, this process can reduce your cognitive load. It will guide you through following scenarios, and possibly others:
