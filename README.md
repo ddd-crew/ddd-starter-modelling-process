@@ -102,7 +102,10 @@ Steps 7 (Define) and 8 (Code) can occur concurrently. This may happen when you a
 
 ## The Process
 
-This process is composed of 8 steps which are introduced below:
+This process is composed of 8 steps which are introduced below.
+
+> A recommended talk about the process is ["Sociotechnical Architecture: co-designing technical & organizational architecture to maximize impact"](https://www.youtube.com/watch?v=ekMPm78KFj0&feature=youtu.be&t=1820) by Eduardo da Silva. He explains the process in the context of typical phases of designing sociotechnical architectures. Eduardo groups the activities in four phases "Align & Understand", "Strategic architecture", "Strategy & Org design" and "Tactical architecture".
+
 
 ### 1. Align
 
