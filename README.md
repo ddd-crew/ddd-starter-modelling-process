@@ -116,6 +116,8 @@ As a starting point, we recommend [The Business Model Canvas](https://www.strate
 
 ![The Business Model Canvas](resources/business-model-canvas.png)
 
+Available templates can be found in [this repository](https://github.com/ddd-crew/virtual-modelling-templates)
+
 #### Tools
 
 - [Impact Mapping](https://www.impactmapping.org/)
@@ -153,6 +155,8 @@ As a starting point, we recommend [EventStorming](https://www.eventstorming.com/
 
 ![EventStorming](resources/event_storming.jpeg)
 
+More details regarding EventStorming are available in [this repository](https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet)
+
 #### Tools
 
 - [Domain Storytelling](https://domainstorytelling.org/)
@@ -182,6 +186,8 @@ We decompose a large problem domain into sub-domains for a few key reasons:
 As a starting point, we recommend carving up your event storm into sub-domains and [Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps).
 
 ![Sub-domains on an EventStorm](resources/event_storm_sub_domains.png)*Credit: Alberto Brandolini*
+
+More details and templates about context maps can be found in [this repository](https://github.com/ddd-crew/context-mapping)
 
 #### Tools
 
@@ -260,6 +266,7 @@ We can optimise how people collaborate with each other if we align teams with co
 As a starting point, we recommend visualising sociotechnical architecture with the [Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps). A brief overview of the most important patterns can be found under the [context-mapping](https://github.com/ddd-crew/context-mapping) GitHub Project.
 
 ![Context Map](resources/context-map-cheat-sheet.png)*Credit: Michael Plöd*
+More details and templates about context maps can be found in [this repository](https://github.com/ddd-crew/context-mapping)
 
 #### Tools
 
