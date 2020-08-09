@@ -10,3 +10,5 @@ include:
   - COPYING.md
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
+
+theme: jekyll-theme-dinky
