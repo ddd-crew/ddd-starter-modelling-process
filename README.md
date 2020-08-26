@@ -291,7 +291,7 @@ Design collaboratively and visually and start to consider the technical limitati
 
 As a starting point, we recommend the [Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas).
 
-![Bounded Context Canvas](resources/bounded-context-canvas-v3.jpeg)
+![Bounded Context Canvas](resources/bounded-context-canvas-v4.jpeg)
 
 #### Tools
 
