@@ -78,7 +78,7 @@ Below are a few reasons for deciding when to change the order or switch between 
 
 ### Start with Collaborative Modelling
 
-If you want to get our whole team collaborating immediately, modelling the domain which they are familiar with might be more comfortable than talking about business models and strategy which they are less comfortable with.
+If you want to get your whole team collaborating immediately, modelling the domain which they are familiar with might be more comfortable than talking about business models and strategy which they are less comfortable with.
 
 ### Start by Assessing IT Landscape
 
