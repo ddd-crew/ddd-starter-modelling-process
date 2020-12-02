@@ -320,7 +320,7 @@ As a starting point, we recommend the [Aggregate Design Canvas](https://github.c
 - [Aggregate Design Canvas](https://github.com/ddd-crew/aggregate-design-canvas)
 - [C4 Component Diagrams](https://c4model.com/#ComponentDiagram)
 - [Design-Level EventStorming](https://www.eventstorming.com/)
-- [Event Modelling](https://eventmodeling.org/)
+- [Event Modeling](https://eventmodeling.org/posts/what-is-event-modeling/)
 - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 - [Mob Programming](https://mobprogramming.org/)
 - [Model Exploration Whirlpool](https://domainlanguage.com/ddd/whirlpool/)
