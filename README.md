@@ -10,6 +10,34 @@ Once you have been through a few iterations of the process you will have the fou
 
 ![DDD Starter Modelling Process](resources/ddd-starter-modelling-process.jpg)
 
+__Navigation:__
+
+* [When to use the DDD Starter Modelling Process?](#when-to-use-the-ddd-starter-modelling-process)
+  * [Kicking Off a Greenfield Project](#kicking-off-a-greenfield-project)
+  * [Beginning a Brownfield Migration](#beginning-a-brownfield-migration)
+  * [Kicking Off a Major Program of Work](#kicking-off-a-major-program-of-work)
+  * [Explore Your Domain for New Learning Opportunities](#explore-your-domain-for-new-learning-opportunities)
+  * [Assess Current State of Your Project](#assess-current-state-of-your-project)
+  * [Practicing or Learning DDD](#practicing-or-learning-ddd)
+* [How to Adapt the Process?](#how-to-adapt-the-process)
+  * [Start with Collaborative Modelling](#start-with-collaborative-modelling)
+  * [Start by Assessing IT Landscape](#start-by-assessing-it-landscape)
+  * [Code Before Confirming Architecture and Team Boundaries](#code-before-confirming-architecture-and-team-boundaries)
+  * [Repeat Steps 2 (Discover) - 6 (Organise) Before Moving to 7 (Define)](#repeat-steps-2-discover---6-organise-before-moving-to-7-define)
+  * [Organise Teams Before Designing Contexts](#organise-teams-before-designing-contexts)
+  * [Blending Definition and Coding](#blending-definition-and-coding)
+* [The Process](#the-process)
+  * [1. Align](#1-align)
+  * [2. Discover](#2-discover)
+  * [3. Decompose](#3-decompose)
+  * [4. Connect](#4-connect)
+  * [5. Strategize](#5-strategize)
+  * [6. Organise](#6-organise)
+  * [7. Define](#7-define)
+  * [8. Code](#8-code)
+* [Contributors](#contributors)
+* [Contributions and Feedback](#contributions-and-feedback)
+
 ## When to use the DDD Starter Modelling Process?
 
 If you're new to DDD or just not sure where to start, this process can reduce your cognitive load. It will guide you through following scenarios, and possibly others:
@@ -50,7 +78,7 @@ Below are a few reasons for deciding when to change the order or switch between 
 
 ### Start with Collaborative Modelling
 
-If you want to get our whole team collaborating immediately, modelling the domain which they are familiar with might be more comfortable than talking about business models and strategy which they are less comfortable with.
+If you want to get your whole team collaborating immediately, modelling the domain which they are familiar with might be more comfortable than talking about business models and strategy which they are less comfortable with.
 
 ### Start by Assessing IT Landscape
 
@@ -74,7 +102,14 @@ Steps 7 (Define) and 8 (Code) can occur concurrently. This may happen when you a
 
 ## The Process
 
-This process is composed of 8 steps which are introduced below:
+The modelling process is composed of 8 steps which are introduced below.
+
+A good talk that gives an overview of the process in the context of typical phases of designing sociotechnical architectures is ["Sociotechnical Architecture: co-designing technical & organizational architecture to maximize impact"](https://www.youtube.com/watch?v=ekMPm78KFj0&feature=youtu.be&t=1820) by [Eduardo da Silva](@emgsilva). Eduardo groups the activities of the process and its 8 steps in [four distinct phases](https://speakerdeck.com/emgsilva/intro-to-sociotechnical-architecture-co-designing-technical-and-organizational-architecture-to-maximize-impact?slide=31), namely: 
+1. Align & Understand
+2. Strategic Architecture
+3. Strategy & Org Design
+4. Tactical Architecture.
+
 
 ### 1. Align
 
@@ -202,11 +237,12 @@ As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-cr
 
 ![Core Domain Charts](resources/core-domain-chart.jpg)
 
-#### Tools
+#### Tools/Resources
 
 - [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)
 - [Purpose Alignment Model](https://www.informit.com/articles/article.aspx?p=1384195&seqNum=2)
 - [Wardley Mapping](https://learnwardleymapping.com/)
+- [Revisiting the Basics of Domain-Driven Design](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/)
 
 #### Who to Involve
 
@@ -255,7 +291,7 @@ Design collaboratively and visually and start to consider the technical limitati
 
 As a starting point, we recommend the [Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas).
 
-![Bounded Context Canvas](resources/bounded-context-canvas-v3.jpeg)
+![Bounded Context Canvas](resources/bounded-context-canvas-v4.jpeg)
 
 #### Tools
 
@@ -284,7 +320,7 @@ As a starting point, we recommend the [Aggregate Design Canvas](https://github.c
 - [Aggregate Design Canvas](https://github.com/ddd-crew/aggregate-design-canvas)
 - [C4 Component Diagrams](https://c4model.com/#ComponentDiagram)
 - [Design-Level EventStorming](https://www.eventstorming.com/)
-- [Event Modelling](https://eventmodeling.org/)
+- [Event Modeling](https://eventmodeling.org/posts/what-is-event-modeling/)
 - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 - [Mob Programming](https://mobprogramming.org/)
 - [Model Exploration Whirlpool](https://domainlanguage.com/ddd/whirlpool/)
