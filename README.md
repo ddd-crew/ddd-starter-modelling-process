@@ -27,14 +27,14 @@ __Navigation:__
   * [Organise Teams Before Designing Contexts](#organise-teams-before-designing-contexts)
   * [Blending Definition and Coding](#blending-definition-and-coding)
 * [The Process](#the-process)
-  * [1. Align](#1-align)
-  * [2. Discover](#2-discover)
-  * [3. Decompose](#3-decompose)
-  * [4. Connect](#4-connect)
-  * [5. Strategize](#5-strategize)
-  * [6. Organise](#6-organise)
-  * [7. Define](#7-define)
-  * [8. Code](#8-code)
+  * [Understand](#understand)
+  * [Discover](#discover)
+  * [Decompose](#decompose)
+  * [Connect](#connect)
+  * [Strategize](#strategize)
+  * [Organise](#organise)
+  * [Define](#define)
+  * [Code](#code)
 * [Contributors](#contributors)
 * [Contributions and Feedback](#contributions-and-feedback)
 
@@ -111,7 +111,7 @@ A good talk that gives an overview of the process in the context of typical phas
 4. Tactical Architecture.
 
 
-### 1. Align
+### Understand
 
 Align our focus with the organisation's business model, the needs of its users, and its short, medium, and long-term goals.
 
@@ -138,7 +138,7 @@ As a starting point, we recommend [The Business Model Canvas](https://www.strate
 - People who understand the product and business strategy
 - Real end users, not only their representatives in your organisation
 
-### 2. Discover
+### Discover
 
 Discover the domain visually and collaboratively.
 
@@ -176,7 +176,7 @@ As a starting point, we recommend [EventStorming](https://www.eventstorming.com/
 - People who understand the customers' needs and problems
 - Real end users
 
-### 3. Decompose
+### Decompose
 
 Decompose the domain into sub-domains - loosely-coupled parts of the domain.
 
@@ -203,7 +203,7 @@ As a starting point, we recommend carving up your event storm into sub-domains a
 - People who design, build, test software
 - People who have domain knowledge
 
-### 4. Connect
+### Connect
 
 Connect the sub-domains into a loosely-coupled architecture which fulfills end-to-end business use-cases.
 
@@ -225,7 +225,7 @@ As a starting point, we recommend [Domain Message Flow Modelling](https://github
 - People who design, build, test software
 - People who have domain knowledge
 
-### 5. Strategize
+### Strategize
 
 Strategically map out your sub-domains to identify core domains: the parts of the domain which have the greatest potential for business differentiation or strategic significance.
 
@@ -250,7 +250,7 @@ As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-cr
 - People who design, build, test software
 - People who have domain knowledge
 
-### 6. Organise
+### Organise
 
 Organise autonomous teams that are optimised for fast flow and aligned with context boundaries.
 
@@ -281,7 +281,7 @@ As a starting point, we recommend visualising sociotechnical architecture with t
 - People who have domain knowledge
 - People who understand the product and business strategy
 
-### 7. Define
+### Define
 
 Define the roles and responsibilities of each [bounded context](https://martinfowler.com/bliki/BoundedContext.html).
 
@@ -305,7 +305,7 @@ As a starting point, we recommend the [Bounded Context Canvas](https://github.co
 - People who have domain knowledge
 - People who are responsible for the product
 
-### 8. Code
+### Code
 
 Code the domain model.
 
