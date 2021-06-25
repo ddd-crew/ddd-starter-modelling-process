@@ -115,11 +115,11 @@ A good talk that gives an overview of the process in the context of typical phas
 
 Align our focus with the organisation's business model, the needs of its users, and its short, medium, and long-term goals.
 
-Every decision we take regarding the architecture, the code, or the organisation has business and user consequences. In order to design, build, and evolve software systems most effectively, our decisions need to create the optimal business impact, which can only be achieved if we are aligned to the business goals, as well as supporting the users current and potensial future needs.
+Every decision we take regarding the architecture, the code, or the organisation has business and user consequences. In order to design, build, and evolve software systems most effectively, our decisions need to create the optimal business impact, which can only be achieved if we are aligned to the business goals, as well as supporting the users current and potential future needs.
 
 Badly designed architecture and/or boundaries can have a negative impact or even make it impossible to achieve these goals.
 
-As a starting point, we recommend [The Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas) for the business perpective, [User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/) for the user vantage point.
+As a starting point, we recommend [The Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas) for the business perpective, [User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/) for understanding the user vantage point.
 
 ![The Business Model Canvas](resources/business-model-canvas.png)
 
@@ -142,7 +142,7 @@ As a starting point, we recommend [The Business Model Canvas](https://www.strate
 
 Discover the domain visually and collaboratively.
 
-This is the most crucial aspect of DDD. You cannot skip discovery. If your whole team doesn't build up a good understanding of the domain all software decisions will be misguided.
+This is the most crucial aspect of DDD. You cannot skip discovery. If your whole team doesn't build up a good understanding of the domain, all software decisions will be misguided.
 
 Spreading domain knowledge through the whole team will create a shared understanding. It enables the developers to build a software system aligned to the domain which can be more flexible to incorporate future business changes. 
 
@@ -231,7 +231,7 @@ Strategically map out your sub-domains to identify core domains: the parts of th
 
 Time and resources are limited, so understanding which parts of the domain to focus on is critical to delivering optimal business impact.
 
-By analysing what your core domains are, you will have a better idea of how much quality and rigour to each part of your system, and you'll be able to make highly-educated build vs buy vs outsource decisions.
+By analysing what your core domains are, you will have a better idea of how much quality and rigour is required to build each part of your system, and you'll be able to make highly-educated build vs buy vs outsource decisions.
 
 As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts).
 
@@ -287,7 +287,7 @@ Define the roles and responsibilities of each [bounded context](https://martinfo
 
 Before committing to a design, make explicit decisions about the choices which can have a significant impact on the overall design. Have these conversations early while it is still easy to change your mind and explore alternative models.
 
-Design collaboratively and visually and start to consider the technical limitations so that you can uncover constraints or opportunities.
+Design collaboratively and visually, and start to consider the technical limitations so that you can uncover constraints or opportunities.
 
 As a starting point, we recommend the [Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas).
 
