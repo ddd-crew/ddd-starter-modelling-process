@@ -35,6 +35,7 @@ __Navigation:__
   * [Organise](#organise)
   * [Define](#define)
   * [Code](#code)
+* [How the DDD Starter Modelling Process relates to the Whirlpool Process](#how-the-ddd-starter-modelling-process-relates-to-the-whirlpool-process)  
 * [Contributors](#contributors)
 * [Contributions and Feedback](#contributions-and-feedback)
 
@@ -331,7 +332,7 @@ As a starting point, we recommend the [Aggregate Design Canvas](https://github.c
 
 - People who design, build, test software
 
-#### How the DDD Starter Modelling Process relates to Eric Evans' Whirlpool Process
+#### How the DDD Starter Modelling Process relates to the Whirlpool Process
 
 Some of you might have noticed some similarities with Eric Evans' [Whirlpool Process](https://www.domainlanguage.com/ddd/whirlpool/). And indeed, both are guides and not rigid best-practices. They're also both continuous and iterative.  
 But the DDD Starter Modelling Process covers more than the Whirlpool process by aiming at building a socio-technical architecture.  
