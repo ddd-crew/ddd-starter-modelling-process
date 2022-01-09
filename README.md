@@ -120,7 +120,7 @@ Every decision we take regarding the architecture, the code, or the organisation
 
 Badly designed architecture and/or boundaries can have a negative impact or even make it impossible to achieve these goals.
 
-As a starting point, we recommend [The Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas) for the business perpective, [User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/) for understanding the user vantage point.
+As a starting point, we recommend [The Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas) for the business perspective, [User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/) for understanding the user vantage point.
 
 ![The Business Model Canvas](resources/business-model-canvas.png)
 
