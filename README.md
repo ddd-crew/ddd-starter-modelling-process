@@ -18,6 +18,7 @@ __Navigation:__
   * [Kicking Off a Major Program of Work](#kicking-off-a-major-program-of-work)
   * [Explore Your Domain for New Learning Opportunities](#explore-your-domain-for-new-learning-opportunities)
   * [Assess Current State of Your Project](#assess-current-state-of-your-project)
+  * [Re-organising Teams](#re-organising-teams)
   * [Practicing or Learning DDD](#practicing-or-learning-ddd)
 * [How to Adapt the Process?](#how-to-adapt-the-process)
   * [Start with Collaborative Modelling](#start-with-collaborative-modelling)
