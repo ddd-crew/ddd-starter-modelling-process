@@ -31,8 +31,8 @@ __Navigation:__
   * [Understand](#understand)
   * [Discover](#discover)
   * [Decompose](#decompose)
-  * [Connect](#connect)
   * [Strategize](#strategize)
+  * [Connect](#connect)
   * [Organise](#organise)
   * [Define](#define)
   * [Code](#code)
@@ -205,28 +205,6 @@ As a starting point, we recommend carving up your event storm into sub-domains a
 - People who design, build, test software
 - People who have domain knowledge
 
-### Connect
-
-Connect the sub-domains into a loosely-coupled architecture which fulfills end-to-end business use-cases.
-
-It is imperative to not only decompose a large domain into parts but to also carefully design the interactions between those parts to minimise unwanted coupling and complexity. It is necessary to challenge the initial design by applying concrete use-cases to uncover hidden complexity.
-
-As a starting point, we recommend [Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling).
-
-![Domain Message Flow Modelling](resources/domain-message-flow.jpg)
-
-#### Tools
-
-- [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
-- [Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling)
-- [Process Modelling EventStorming](https://www.eventstorming.com/)
-- [Sequence Diagrams](https://en.wikipedia.org/wiki/Sequence_diagram)
-
-#### Who to Involve
-
-- People who design, build, test software
-- People who have domain knowledge
-
 ### Strategize
 
 Strategically map out your sub-domains to identify core domains: the parts of the domain which have the greatest potential for business differentiation or strategic significance.
@@ -249,6 +227,28 @@ As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-cr
 #### Who to Involve
 
 - People who understand product and business strategy
+- People who design, build, test software
+- People who have domain knowledge
+
+### Connect
+
+Connect the sub-domains into a loosely-coupled architecture which fulfills end-to-end business use-cases.
+
+It is imperative to not only decompose a large domain into parts but to also carefully design the interactions between those parts to minimise unwanted coupling and complexity. It is necessary to challenge the initial design by applying concrete use-cases to uncover hidden complexity.
+
+As a starting point, we recommend [Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling).
+
+![Domain Message Flow Modelling](resources/domain-message-flow.jpg)
+
+#### Tools
+
+- [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
+- [Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling)
+- [Process Modelling EventStorming](https://www.eventstorming.com/)
+- [Sequence Diagrams](https://en.wikipedia.org/wiki/Sequence_diagram)
+
+#### Who to Involve
+
 - People who design, build, test software
 - People who have domain knowledge
 
