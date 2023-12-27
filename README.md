@@ -8,7 +8,7 @@ Once you have been through a few iterations of the process you will have the fou
 
 > This process is for beginners. It is not a linear sequence of steps that you should standardise as a best practice. Domain-Driven Design is an evolutionary design process which necessitates continuous iteration on all aspects of knowledge and design.
 
-![DDD Starter Modelling Process](resources/ddd-starter-modelling-process.jpg)
+![DDD Starter Modelling Process](resources/ddd-starter-modelling-process-colored.png) 
 
 __Navigation:__
 
@@ -18,6 +18,7 @@ __Navigation:__
   * [Kicking Off a Major Program of Work](#kicking-off-a-major-program-of-work)
   * [Explore Your Domain for New Learning Opportunities](#explore-your-domain-for-new-learning-opportunities)
   * [Assess Current State of Your Project](#assess-current-state-of-your-project)
+  * [Re-organising Teams](#re-organising-teams)
   * [Practicing or Learning DDD](#practicing-or-learning-ddd)
 * [How to Adapt the Process?](#how-to-adapt-the-process)
   * [Start with Collaborative Modelling](#start-with-collaborative-modelling)
@@ -27,14 +28,15 @@ __Navigation:__
   * [Organise Teams Before Designing Contexts](#organise-teams-before-designing-contexts)
   * [Blending Definition and Coding](#blending-definition-and-coding)
 * [The Process](#the-process)
-  * [1. Align](#1-align)
-  * [2. Discover](#2-discover)
-  * [3. Decompose](#3-decompose)
-  * [4. Connect](#4-connect)
-  * [5. Strategize](#5-strategize)
-  * [6. Organise](#6-organise)
-  * [7. Define](#7-define)
-  * [8. Code](#8-code)
+  * [Understand](#understand)
+  * [Discover](#discover)
+  * [Decompose](#decompose)
+  * [Strategize](#strategize)
+  * [Connect](#connect)
+  * [Organise](#organise)
+  * [Define](#define)
+  * [Code](#code)
+* [How the DDD Starter Modelling Process relates to the Whirlpool Process](#how-the-ddd-starter-modelling-process-relates-to-the-whirlpool-process)  
 * [Contributors](#contributors)
 * [Contributions and Feedback](#contributions-and-feedback)
 
@@ -78,7 +80,7 @@ Below are a few reasons for deciding when to change the order or switch between 
 
 ### Start with Collaborative Modelling
 
-If you want to get our whole team collaborating immediately, modelling the domain which they are familiar with might be more comfortable than talking about business models and strategy which they are less comfortable with.
+If you want to get your whole team collaborating immediately, modelling the domain which they are familiar with might be more comfortable than talking about business models and strategy which they are less comfortable with.
 
 ### Start by Assessing IT Landscape
 
@@ -102,17 +104,24 @@ Steps 7 (Define) and 8 (Code) can occur concurrently. This may happen when you a
 
 ## The Process
 
-This process is composed of 8 steps which are introduced below:
+The modelling process is composed of 8 steps which are introduced below.
 
-### 1. Align
+A good talk that gives an overview of the process in the context of typical phases of designing sociotechnical architectures is ["Sociotechnical Architecture: co-designing technical & organizational architecture to maximize impact"](https://www.youtube.com/watch?v=ekMPm78KFj0&feature=youtu.be&t=1820) by [Eduardo da Silva](https://twitter.com/emgsilva). Eduardo groups the activities of the process and its 8 steps in [four distinct phases](https://speakerdeck.com/emgsilva/intro-to-sociotechnical-architecture-co-designing-technical-and-organizational-architecture-to-maximize-impact?slide=31), namely: 
+1. Align & Understand
+2. Strategic Architecture
+3. Strategy & Org Design
+4. Tactical Architecture.
+
+
+### Understand
 
 Align our focus with the organisation's business model, the needs of its users, and its short, medium, and long-term goals.
 
-Every decision we take regarding the architecture, the code, or the organisation has business and user consequences. In order to design, build, and evolve software systems most effectively, our decisions need to create the optimal business impact, which can only be achieved if we are aligned to the business goals, as well as supporting the users current and potensial future needs.
+Every decision we take regarding the architecture, the code, or the organisation has business and user consequences. In order to design, build, and evolve software systems most effectively, our decisions need to create the optimal business impact, which can only be achieved if we are aligned to the business goals, as well as supporting the users current and potential future needs.
 
 Badly designed architecture and/or boundaries can have a negative impact or even make it impossible to achieve these goals.
 
-As a starting point, we recommend [The Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas) for the business perpective, [User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/) for the user vantage point.
+As a starting point, we recommend [The Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas) for the business perspective, [User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/) for understanding the user vantage point.
 
 ![The Business Model Canvas](resources/business-model-canvas.png)
 
@@ -131,11 +140,11 @@ As a starting point, we recommend [The Business Model Canvas](https://www.strate
 - People who understand the product and business strategy
 - Real end users, not only their representatives in your organisation
 
-### 2. Discover
+### Discover
 
 Discover the domain visually and collaboratively.
 
-This is the most crucial aspect of DDD. You cannot skip discovery. If your whole team doesn't build up a good understanding of the domain all software decisions will be misguided.
+This is the most crucial aspect of DDD. You cannot skip discovery. If your whole team doesn't build up a good understanding of the domain, all software decisions will be misguided.
 
 Spreading domain knowledge through the whole team will create a shared understanding. It enables the developers to build a software system aligned to the domain which can be more flexible to incorporate future business changes. 
 
@@ -169,7 +178,7 @@ As a starting point, we recommend [EventStorming](https://www.eventstorming.com/
 - People who understand the customers' needs and problems
 - Real end users
 
-### 3. Decompose
+### Decompose
 
 Decompose the domain into sub-domains - loosely-coupled parts of the domain.
 
@@ -196,7 +205,32 @@ As a starting point, we recommend carving up your event storm into sub-domains a
 - People who design, build, test software
 - People who have domain knowledge
 
-### 4. Connect
+### Strategize
+
+Strategically map out your sub-domains to identify core domains: the parts of the domain which have the greatest potential for business differentiation or strategic significance.
+
+Time and resources are limited, so understanding which parts of the domain to focus on is critical to delivering optimal business impact.
+
+By analysing what your core domains are, you will have a better idea of how much quality and rigour is required to build each part of your system, and you'll be able to make highly-educated build vs buy vs outsource decisions.
+
+As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts).
+
+![Core Domain Charts](resources/core-domain-chart.jpg)
+
+#### Tools/Resources
+
+- [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)
+- [Purpose Alignment Model](https://www.informit.com/articles/article.aspx?p=1384195&seqNum=2)
+- [Wardley Mapping](https://learnwardleymapping.com/)
+- [Revisiting the Basics of Domain-Driven Design](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/)
+
+#### Who to Involve
+
+- People who understand product and business strategy
+- People who design, build, test software
+- People who have domain knowledge
+
+### Connect
 
 Connect the sub-domains into a loosely-coupled architecture which fulfills end-to-end business use-cases.
 
@@ -218,32 +252,7 @@ As a starting point, we recommend [Domain Message Flow Modelling](https://github
 - People who design, build, test software
 - People who have domain knowledge
 
-### 5. Strategize
-
-Strategically map out your sub-domains to identify core domains: the parts of the domain which have the greatest potential for business differentiation or strategic significance.
-
-Time and resources are limited, so understanding which parts of the domain to focus on is critical to delivering optimal business impact.
-
-By analysing what your core domains are, you will have a better idea of how much quality and rigour to each part of your system, and you'll be able to make highly-educated build vs buy vs outsource decisions.
-
-As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts).
-
-![Core Domain Charts](resources/core-domain-chart.jpg)
-
-#### Tools/Resources
-
-- [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)
-- [Purpose Alignment Model](https://www.informit.com/articles/article.aspx?p=1384195&seqNum=2)
-- [Wardley Mapping](https://learnwardleymapping.com/)
-- [Revisiting the Basics of Domain-Driven Design](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/)
-
-#### Who to Involve
-
-- People who understand product and business strategy
-- People who design, build, test software
-- People who have domain knowledge
-
-### 6. Organise
+### Organise
 
 Organise autonomous teams that are optimised for fast flow and aligned with context boundaries.
 
@@ -274,17 +283,17 @@ As a starting point, we recommend visualising sociotechnical architecture with t
 - People who have domain knowledge
 - People who understand the product and business strategy
 
-### 7. Define
+### Define
 
 Define the roles and responsibilities of each [bounded context](https://martinfowler.com/bliki/BoundedContext.html).
 
 Before committing to a design, make explicit decisions about the choices which can have a significant impact on the overall design. Have these conversations early while it is still easy to change your mind and explore alternative models.
 
-Design collaboratively and visually and start to consider the technical limitations so that you can uncover constraints or opportunities.
+Design collaboratively and visually, and start to consider the technical limitations so that you can uncover constraints or opportunities.
 
 As a starting point, we recommend the [Bounded Context Canvas](https://github.com/ddd-crew/bounded-context-canvas).
 
-![Bounded Context Canvas](resources/bounded-context-canvas-v3.jpeg)
+![Bounded Context Canvas](resources/bounded-context-canvas-v5.jpg)
 
 #### Tools
 
@@ -298,7 +307,7 @@ As a starting point, we recommend the [Bounded Context Canvas](https://github.co
 - People who have domain knowledge
 - People who are responsible for the product
 
-### 8. Code
+### Code
 
 Code the domain model.
 
@@ -313,7 +322,7 @@ As a starting point, we recommend the [Aggregate Design Canvas](https://github.c
 - [Aggregate Design Canvas](https://github.com/ddd-crew/aggregate-design-canvas)
 - [C4 Component Diagrams](https://c4model.com/#ComponentDiagram)
 - [Design-Level EventStorming](https://www.eventstorming.com/)
-- [Event Modelling](https://eventmodeling.org/)
+- [Event Modeling](https://eventmodeling.org/posts/what-is-event-modeling/)
 - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 - [Mob Programming](https://mobprogramming.org/)
 - [Model Exploration Whirlpool](https://domainlanguage.com/ddd/whirlpool/)
@@ -323,6 +332,16 @@ As a starting point, we recommend the [Aggregate Design Canvas](https://github.c
 #### Who to Involve
 
 - People who design, build, test software
+
+### How the DDD Starter Modelling Process relates to the Whirlpool Process  
+  
+Some of you might have noticed some similarities with Eric Evans' [Whirlpool Process](https://www.domainlanguage.com/ddd/whirlpool/). And indeed, both are guides and not rigid best-practices. They're also both continuous and iterative.  
+But the DDD Starter Modelling Process covers more than the Whirlpool process by aiming at building a socio-technical architecture.  
+The picture below shows a possible overlap between the two processes.  
+
+![WhirlpoolVSStarter](resources/ENWhirlpoolVSStarter.jpg)  
+
+Needless to say that Eric Evan's Whirlpool process remains totally relevant today and gives people highly valuable insights and guidance on how to explore models.
 
 ## Contributors
 
