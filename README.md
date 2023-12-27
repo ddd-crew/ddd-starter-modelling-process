@@ -340,7 +340,7 @@ The Domain-Driven Design Starter Modelling Process is freely available for you t
 
 If you have questions you can ping us or open an [Issue](https://github.com/ddd-crew/ddd-starter-modelling-process/issues/new/choose).
 
-Feel free to also send us a pull request with your examples or experience reports.
+Feel free to also send us pull requests with your [case studies](/case-studies).
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
