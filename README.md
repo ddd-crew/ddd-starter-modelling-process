@@ -12,33 +12,50 @@ Once you have been through a few iterations of the process you will have the fou
 
 __Navigation:__
 
-* [When to use the DDD Starter Modelling Process?](#when-to-use-the-ddd-starter-modelling-process)
-  * [Kicking Off a Greenfield Project](#kicking-off-a-greenfield-project)
-  * [Beginning a Brownfield Migration](#beginning-a-brownfield-migration)
-  * [Kicking Off a Major Program of Work](#kicking-off-a-major-program-of-work)
-  * [Explore Your Domain for New Learning Opportunities](#explore-your-domain-for-new-learning-opportunities)
-  * [Assess Current State of Your Project](#assess-current-state-of-your-project)
-  * [Re-organising Teams](#re-organising-teams)
-  * [Practicing or Learning DDD](#practicing-or-learning-ddd)
-* [How to Adapt the Process?](#how-to-adapt-the-process)
-  * [Start with Collaborative Modelling](#start-with-collaborative-modelling)
-  * [Start by Assessing IT Landscape](#start-by-assessing-it-landscape)
-  * [Code Before Confirming Architecture and Team Boundaries](#code-before-confirming-architecture-and-team-boundaries)
-  * [Repeat Steps 2 (Discover) - 6 (Organise) Before Moving to 7 (Define)](#repeat-steps-2-discover---6-organise-before-moving-to-7-define)
-  * [Organise Teams Before Designing Contexts](#organise-teams-before-designing-contexts)
-  * [Blending Definition and Coding](#blending-definition-and-coding)
-* [The Process](#the-process)
-  * [Understand](#understand)
-  * [Discover](#discover)
-  * [Decompose](#decompose)
-  * [Strategize](#strategize)
-  * [Connect](#connect)
-  * [Organise](#organise)
-  * [Define](#define)
-  * [Code](#code)
-* [How the DDD Starter Modelling Process relates to the Whirlpool Process](#how-the-ddd-starter-modelling-process-relates-to-the-whirlpool-process)  
-* [Contributors](#contributors)
-* [Contributions and Feedback](#contributions-and-feedback)
+- [Domain-Driven Design Starter Modelling Process](#domain-driven-design-starter-modelling-process)
+  - [When to use the DDD Starter Modelling Process?](#when-to-use-the-ddd-starter-modelling-process)
+    - [Kicking Off a Greenfield Project](#kicking-off-a-greenfield-project)
+    - [Beginning a Brownfield Migration](#beginning-a-brownfield-migration)
+    - [Kicking Off a Major Program of Work](#kicking-off-a-major-program-of-work)
+    - [Explore Your Domain for New Learning Opportunities](#explore-your-domain-for-new-learning-opportunities)
+    - [Assess Current State of Your Project](#assess-current-state-of-your-project)
+    - [Re-organising Teams](#re-organising-teams)
+    - [Practicing or Learning DDD](#practicing-or-learning-ddd)
+  - [How to Adapt the Process?](#how-to-adapt-the-process)
+    - [Start with Collaborative Modelling](#start-with-collaborative-modelling)
+    - [Start by Assessing IT Landscape](#start-by-assessing-it-landscape)
+    - [Code Before Confirming Architecture and Team Boundaries](#code-before-confirming-architecture-and-team-boundaries)
+    - [Repeat Steps 2 (Discover) - 6 (Organise) Before Moving to 7 (Define)](#repeat-steps-2-discover---6-organise-before-moving-to-7-define)
+    - [Organise Teams Before Designing Contexts](#organise-teams-before-designing-contexts)
+    - [Blending Definition and Coding](#blending-definition-and-coding)
+  - [The Process](#the-process)
+    - [Understand](#understand)
+      - [Tools](#tools)
+      - [Who to Involve](#who-to-involve)
+    - [Discover](#discover)
+      - [Tools](#tools-1)
+      - [Who to Involve](#who-to-involve-1)
+    - [Decompose](#decompose)
+      - [Tools](#tools-2)
+      - [Who to Involve](#who-to-involve-2)
+    - [Strategize](#strategize)
+      - [Tools/Resources](#toolsresources)
+      - [Who to Involve](#who-to-involve-3)
+    - [Connect](#connect)
+      - [Tools](#tools-3)
+      - [Who to Involve](#who-to-involve-4)
+    - [Organise](#organise)
+      - [Tools](#tools-4)
+      - [Who to Involve](#who-to-involve-5)
+    - [Define](#define)
+      - [Tools](#tools-5)
+      - [Who to Involve](#who-to-involve-6)
+    - [Code](#code)
+      - [Tools](#tools-6)
+      - [Who to Involve](#who-to-involve-7)
+    - [How the DDD Starter Modelling Process relates to the Whirlpool Process](#how-the-ddd-starter-modelling-process-relates-to-the-whirlpool-process)
+  - [Contributors](#contributors)
+  - [Contributions and Feedback](#contributions-and-feedback)
 
 ## When to use the DDD Starter Modelling Process?
 
@@ -70,7 +87,9 @@ A loosely-coupled architecture enables teams to work in parallel without being b
 
 ### Practicing or Learning DDD
 
-This process is ideal when you are new to DDD and want to practice, or you want to teach others the different aspects of modelling a domain. It's important to communicate that this linear process is not a realistic process. It's just a starting point to reduce cognitive load until you are confident with DDD.
+This process is ideal when you are new to DDD and want to practice, or you want to teach others the different aspects of modelling a domain. It's important to communicate that this linear process is not a realistic process. It's just a starting point to reduce cognitive load until you are confident with DDD. 
+
+If you want to try it out yourself, colleagues at SAP have created a [DDD Kata](https://github.com/SAP/curated-resources-for-domain-driven-design/blob/main/ddd-kata.md) to educate teams, how to apply the DDD Modelling Process in your team. Based upon a set of requirements, you can try out how EventStorming, Domain Message Flow, Bounded Context Canvas and Aggregate Canvas work together and help you to validate your design decisions.
 
 ## How to Adapt the Process?
 
@@ -106,12 +125,12 @@ Steps 7 (Define) and 8 (Code) can occur concurrently. This may happen when you a
 
 The modelling process is composed of 8 steps which are introduced below.
 
-A good talk that gives an overview of the process in the context of typical phases of designing sociotechnical architectures is ["Sociotechnical Architecture: co-designing technical & organizational architecture to maximize impact"](https://www.youtube.com/watch?v=ekMPm78KFj0&feature=youtu.be&t=1820) by [Eduardo da Silva](https://twitter.com/emgsilva). Eduardo groups the activities of the process and its 8 steps in [four distinct phases](https://speakerdeck.com/emgsilva/intro-to-sociotechnical-architecture-co-designing-technical-and-organizational-architecture-to-maximize-impact?slide=31), namely: 
+A good talk that gives an overview of the process in the context of typical phases of designing sociotechnical architectures is ["Sociotechnical Architecture: co-designing technical & organizational architecture to maximize impact"](https://www.youtube.com/watch?v=ekMPm78KFj0&feature=youtu.be&t=1820) by [Eduardo da Silva](https://twitter.com/emgsilva). Eduardo groups the activities of the process and its 8 steps in [four distinct phases](https://speakerdeck.com/emgsilva/intro-to-sociotechnical-architecture-co-designing-technical-and-organizational-architecture-to-maximize-impact?slide=31), namely:
+
 1. Align & Understand
 2. Strategic Architecture
 3. Strategy & Org Design
 4. Tactical Architecture.
-
 
 ### Understand
 
