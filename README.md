@@ -8,7 +8,7 @@ Once you have been through a few iterations of the process you will have the fou
 
 > This process is for beginners. It is not a linear sequence of steps that you should standardise as a best practice. Domain-Driven Design is an evolutionary design process which necessitates continuous iteration on all aspects of knowledge and design.
 
-![DDD Starter Modelling Process](resources/ddd-starter-modelling-process-colored.png) 
+![DDD Starter Modelling Process](resources/ddd-starter-modeling-circular.svg) 
 
 __Navigation:__
 
