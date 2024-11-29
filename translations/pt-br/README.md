@@ -38,19 +38,19 @@ __Navegação:__
     - [Decompor](#decompor)
       - [Ferramentas](#ferramentas-2)
       - [Quem involver](#quem-involver-2)
-    - [Strategize](#criar-estratégia)
+    - [Criar Estratégia](#criar-estratégia)
       - [Ferramentas/Recursos](#ferramentasrecursos)
       - [Quem involver](#quem-involver-3)
-    - [Connect](#conectar)
+    - [Conectar](#conectar)
       - [Ferramentas](#ferramentas-3)
       - [Quem involver](#quem-involver-4)
-    - [Organise](#organizar)
+    - [Organizar](#organizar)
       - [Ferramentas](#ferramentas-4)
       - [Quem involver](#quem-involver-5)
-    - [Define](#definir)
+    - [Definir](#definir)
       - [Ferramentas](#ferramentas-5)
       - [Quem involver](#quem-involver-6)
-    - [Code](#codificar)
+    - [Codificar](#codificar)
       - [Ferramentas](#ferramentas-6)
       - [Quem involver](#quem-involver-7)
     - [Como o "Domain-Driven Design Starter Modelling Process" se relaciona com o processo Whirlpool](#como-o-domain-driven-design-starter-modelling-process-se-relaciona-com-o-processo-whirlpool)
@@ -234,7 +234,7 @@ Ao analisar quais são seus domínios principais, você terá uma ideia melhor d
 
 Como ponto de partida, recomendamos [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts).
 
-![Core Domain Charts](resources/core-domain-chart.jpg)
+![Core Domain Charts](../../resources/core-domain-chart.jpg)
 
 #### Ferramentas/Recursos
 
@@ -257,7 +257,7 @@ Conecte os subdomínios em uma arquitetura com baixo acoplamento que atenda aos 
 
 Como ponto de partida, recomendamos [Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling).
 
-![Domain Message Flow Modelling](resources/domain-message-flow.jpg)
+![Domain Message Flow Modelling](../../resources/domain-message-flow.jpg)
 
 #### Ferramentas
 
@@ -287,7 +287,7 @@ Podemos otimizar a forma como as pessoas colaboram umas com as outras se alinhar
 
 Como ponto de partida, recomendamos visualizar a arquitetura sociotécnica com o [Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps). Uma breve visão geral dos padrões mais importantes pode ser encontrada na seção [context-mapping](https://github.com/ddd-crew/context-mapping) GitHub Project.
 
-![Context Map](resources/context-map-cheat-sheet.png)*Crédito: Michael Plöd*
+![Context Map](../../resources/context-map-cheat-sheet.png)*Crédito: Michael Plöd*
 
 #### Ferramentas
 
@@ -334,7 +334,7 @@ Alinhar o código ao domínio facilita a alteração do código quando o domíni
 
 Como ponto de partida, recomendamos o ["Aggregate Design Canvas"](https://github.com/ddd-crew/aggregate-design-canvas).
 
-!["Aggregate Design Canvas"](resources/aggregate-design-canvas-v1.jpg)
+!["Aggregate Design Canvas"](../../resources/aggregate-design-canvas-v1.jpg)
 
 #### Ferramentas
 
@@ -358,7 +358,7 @@ Alguns de vocês devem ter notado algumas semelhanças com o livro de Eric Evans
 Mas o Processo Initial de DDD é mais agrangente do que o processo Whirlpool, pois visa à criação de uma arquitetura sociotécnica.  
 A figura abaixo mostra uma possível sobreposição entre os dois processos.  
 
-![WhirlpoolVSStarter](/resources/ENWhirlpoolVSStarter.jpg)  
+![WhirlpoolVSStarter](../../resources/ENWhirlpoolVSStarter.jpg)  
 
 Não é preciso dizer que o processo Whirlpool de Eric Evan continua totalmente relevante até hoje e oferece às pessoas percepções e orientações muito valiosas sobre como explorar modelos.
 
