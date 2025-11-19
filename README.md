@@ -8,7 +8,7 @@ Once you have been through a few iterations of the process you will have the fou
 
 > This process is for beginners. It is not a linear sequence of steps that you should standardise as a best practice. Domain-Driven Design is an evolutionary design process which necessitates continuous iteration on all aspects of knowledge and design.
 
-![DDD Starter Modelling Process](resources/ddd-starter-modeling-circular.svg) 
+![DDD Starter Modelling Process](resources/ddd-crew-modeling-process--cirlces-feed-each-other.svg) 
 
 __Navigation:__
 
@@ -251,7 +251,7 @@ As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-cr
 
 ### Connect
 
-Connect the sub-domains into a loosely-coupled architecture which fulfills end-to-end business use-cases.
+Connect the sub-domains into a loosely-coupled architecture which fulfils end-to-end business use-cases.
 
 It is imperative to not only decompose a large domain into parts but to also carefully design the interactions between those parts to minimise unwanted coupling and complexity. It is necessary to challenge the initial design by applying concrete use-cases to uncover hidden complexity.
 
@@ -291,7 +291,7 @@ As a starting point, we recommend visualising sociotechnical architecture with t
 
 #### Tools
 
-- [Dynamic Reteaming](https://leanpub.com/dynamicreteaming) 
+- [Dynamic Re-teaming](https://leanpub.com/dynamicreteaming) 
 - [Explorers, Villagers & Town Planners](https://medium.com/mappingpractice/how-to-organise-yourself-f36f084a611b)
 - [Team Topologies](https://teamtopologies.com/)
 - [Visualising Sociotechnical Architecture with Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps)
@@ -341,7 +341,7 @@ As a starting point, we recommend the [Aggregate Design Canvas](https://github.c
 - [Aggregate Design Canvas](https://github.com/ddd-crew/aggregate-design-canvas)
 - [C4 Component Diagrams](https://c4model.com/#ComponentDiagram)
 - [Design-Level EventStorming](https://www.eventstorming.com/)
-- [Event Modeling](https://eventmodeling.org/posts/what-is-event-modeling/)
+- [Event Modelling](https://eventmodeling.org/posts/what-is-event-modeling/)
 - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 - [Mob Programming](https://mobprogramming.org/)
 - [Model Exploration Whirlpool](https://domainlanguage.com/ddd/whirlpool/)
