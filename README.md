@@ -239,7 +239,7 @@ As a starting point, we recommend [Core Domain Charts](https://github.com/ddd-cr
 #### Tools/Resources
 
 - [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)
-- [Purpose Alignment Model](https://www.informit.com/articles/article.aspx?p=1384195&seqNum=2)
+- [Purpose Alignment Model](https://web.archive.org/web/20241202160527/https://www.informit.com/articles/article.aspx?p=1384195&seqNum=2)
 - [Wardley Mapping](https://learnwardleymapping.com/)
 - [Revisiting the Basics of Domain-Driven Design](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/)
 
