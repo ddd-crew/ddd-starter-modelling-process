@@ -31,28 +31,28 @@ __Navegação:__
   - [O processo](#o-processo)
     - [Alinhar](#alinhar)
       - [Ferramentas](#ferramentas)
-      - [Quem involver](#quem-involver)
+      - [Quem envolver](#quem-envolver)
     - [Descobrir](#descobrir)
       - [Ferramentas](#ferramentas-1)
-      - [Quem involver](#quem-involver-1)
+      - [Quem envolver](#quem-envolver-1)
     - [Decompor](#decompor)
       - [Ferramentas](#ferramentas-2)
-      - [Quem involver](#quem-involver-2)
+      - [Quem envolver](#quem-envolver-2)
     - [Criar Estratégia](#criar-estratégia)
       - [Ferramentas/Recursos](#ferramentasrecursos)
-      - [Quem involver](#quem-involver-3)
+      - [Quem envolver](#quem-envolver-3)
     - [Conectar](#conectar)
       - [Ferramentas](#ferramentas-3)
-      - [Quem involver](#quem-involver-4)
+      - [Quem envolver](#quem-envolver-4)
     - [Organizar](#organizar)
       - [Ferramentas](#ferramentas-4)
-      - [Quem involver](#quem-involver-5)
+      - [Quem envolver](#quem-envolver-5)
     - [Definir](#definir)
       - [Ferramentas](#ferramentas-5)
-      - [Quem involver](#quem-involver-6)
+      - [Quem envolver](#quem-envolver-6)
     - [Codificar](#codificar)
       - [Ferramentas](#ferramentas-6)
-      - [Quem involver](#quem-involver-7)
+      - [Quem envolver](#quem-envolver-7)
     - [Como o "Domain-Driven Design Starter Modelling Process" se relaciona com o processo Whirlpool](#como-o-domain-driven-design-starter-modelling-process-se-relaciona-com-o-processo-whirlpool)
   - [Contribuidores](#contribuidores)
   - [Contribuições e Feedback](#contribuições-e-feedback)
@@ -152,7 +152,7 @@ Como ponto de partida, recomendamos [The Business Model Canvas](https://www.stra
 - [Wardley Mapping](https://learnwardleymapping.com/)
 - [User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/)
 
-#### Quem involver
+#### Quem envolver
 
 - Pessoas que projetam, criam e testam software
 - Pessoas que têm conhecimento do domínio
@@ -189,7 +189,7 @@ Como ponto de partida, recomendamos [EventStorming](https://www.eventstorming.co
 - [User Journey Mapping](https://boagworld.com/audio/customer-journey-mapping/)
 - [User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/)
 
-#### Quem involver
+#### Quem envolver
 
 - Pessoas que projetam, criam e testam software
 - Pessoas que têm conhecimento do domínio
@@ -219,7 +219,7 @@ Como ponto de partida, recomendamos dividir seu "Event Storming" em subdomínios
 - [Heurísticas de serviços independente](https://github.com/TeamTopologies/Independent-Service-Heuristics)
 - [Visualizando a arquitetura sociotécnica com "Context Mappings"](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps)
 
-#### Quem involver
+#### Quem envolver
 
 - Pessoas que projetam, criam e testam software
 - Pessoas que têm conhecimento do domínio
@@ -239,11 +239,11 @@ Como ponto de partida, recomendamos [Core Domain Charts](https://github.com/ddd-
 #### Ferramentas/Recursos
 
 - [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)
-- [Purpose Alignment Model](https://www.informit.com/articles/article.aspx?p=1384195&seqNum=2)
+- [Purpose Alignment Model](https://web.archive.org/web/20241202160527/https://www.informit.com/articles/article.aspx?p=1384195&seqNum=2)
 - [Wardley Mapping](https://learnwardleymapping.com/)
 - [Revisitando os fundamentos do Domain-Driven Design](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/)
 
-#### Quem involver
+#### Quem envolver
 
 - Pessoas que entendem de estratégia de produtos e negócios
 - Pessoas que projetam, criam e testam software
@@ -266,7 +266,7 @@ Como ponto de partida, recomendamos [Domain Message Flow Modelling](https://gith
 - ["Process Modelling EventStorming"](https://www.eventstorming.com/)
 - [Diagramas de Sequência](https://en.wikipedia.org/wiki/Sequence_diagram)
 
-#### Quem involver
+#### Quem envolver
 
 - Pessoas que projetam, criam e testam software
 - Pessoas que têm conhecimento do domínio
@@ -292,11 +292,11 @@ Como ponto de partida, recomendamos visualizar a arquitetura sociotécnica com o
 #### Ferramentas
 
 - ["Dynamic Reteaming"](https://leanpub.com/dynamicreteaming) 
-- ["Pioneers, Settlers & Town Planners"](http://wardleypedia.org/mediawiki/index.php/Pioneers_settlers_town_planners)
+- ["Explorers, Villagers & Town Planners"](https://medium.com/mappingpractice/how-to-organise-yourself-f36f084a611b)
 - ["Team Topologies"](https://teamtopologies.com/)
 - [Visualizando a arquitetura sociotécnica com "Context Maps"](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps)
 
-#### Quem involver
+#### Quem envolver
 
 - Pessoas que projetam, criam e testam software
 - Pessoas que têm conhecimento do domínio
@@ -320,7 +320,7 @@ Como ponto de partida, recomendamos o ["Bounded Context Canvas"](https://github.
 - [Diagrama de contexto do sistema C4](https://c4model.com/#SystemContextDiagram)
 - ["Quality Storming"](https://speakerdeck.com/mploed/quality-storming)
 
-#### Quem involver
+#### Quem envolver
 
 - Pessoas que projetam, criam e testam software
 - Pessoas que têm conhecimento do domínio
@@ -348,7 +348,7 @@ Como ponto de partida, recomendamos o ["Aggregate Design Canvas"](https://github
 - ["Onion Architecture"](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 - ["Unified Modelling Language"](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
 
-#### Quem involver
+#### Quem envolver
 
 - Pessoas que projetam, criam e testam software
 
