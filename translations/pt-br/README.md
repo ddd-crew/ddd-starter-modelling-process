@@ -232,13 +232,13 @@ O tempo e os recursos são limitados, portanto, entender em quais partes do dom�
 
 Ao analisar quais são seus domínios principais, você terá uma ideia melhor de quanta qualidade e rigor são necessários para criar cada parte do seu sistema e poderá tomar decisões altamente embasadas de criar, comprar ou terceirizar.
 
-Como ponto de partida, recomendamos [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts).
+Como ponto de partida, recomendamos [Core Domain Charts em português brasileiro](https://github.com/ddd-crew/core-domain-charts/blob/main/translations/pt-br/README.md).
 
 ![Core Domain Charts](../../resources/core-domain-chart.jpg)
 
 #### Ferramentas/Recursos
 
-- [Core Domain Charts](https://github.com/ddd-crew/core-domain-charts)
+- [Core Domain Charts em português brasileiro](https://github.com/ddd-crew/core-domain-charts/blob/main/translations/pt-br/README.md)
 - [Purpose Alignment Model](https://web.archive.org/web/20241202160527/https://www.informit.com/articles/article.aspx?p=1384195&seqNum=2)
 - [Wardley Mapping](https://learnwardleymapping.com/)
 - [Revisitando os fundamentos do Domain-Driven Design](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/)
@@ -255,14 +255,14 @@ Conecte os subdomínios em uma arquitetura com baixo acoplamento que atenda aos 
 
 É imperativo não apenas decompor um grande domínio em partes, mas também projetar cuidadosamente as interações entre essas partes para minimizar o acoplamento e a complexidade indesejados. É necessário desafiar o projeto inicial aplicando casos de uso concretos para descobrir a complexidade oculta.
 
-Como ponto de partida, recomendamos [Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling).
+Como ponto de partida, recomendamos [Domain Message Flow Modelling em português brasileiro](https://github.com/ddd-crew/domain-message-flow-modelling/blob/main/translations/pt-br/README.md).
 
 ![Domain Message Flow Modelling](../../resources/domain-message-flow.jpg)
 
 #### Ferramentas
 
 - ["Business Process Model" e "Notation"](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
-- ["Domain Message Flow Modelling"](https://github.com/ddd-crew/domain-message-flow-modelling)
+- ["Domain Message Flow Modelling" em português brasileiro](https://github.com/ddd-crew/domain-message-flow-modelling/blob/main/translations/pt-br/README.md)
 - ["Process Modelling EventStorming"](https://www.eventstorming.com/)
 - [Diagramas de Sequência](https://en.wikipedia.org/wiki/Sequence_diagram)
 
@@ -285,7 +285,7 @@ Os times precisam ser organizados para ter autonomia, metas claras e senso de pr
 
 Podemos otimizar a forma como as pessoas colaboram umas com as outras se alinharmos as equipes com os limites do contexto. Para dimensionar corretamente as equipes, precisamos levar em conta o talento disponível, a carga cognitiva, a sobrecarga de comunicação e o fator ônibus. 
 
-Como ponto de partida, recomendamos visualizar a arquitetura sociotécnica com o [Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps). Uma breve visão geral dos padrões mais importantes pode ser encontrada na seção [context-mapping](https://github.com/ddd-crew/context-mapping) GitHub Project.
+Como ponto de partida, recomendamos visualizar a arquitetura sociotécnica com o [Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps). Uma breve visão geral dos padrões mais importantes pode ser encontrada na documentação de [Context Mapping em português brasileiro](https://github.com/ddd-crew/context-mapping/blob/main/translations/pt-br/README.md).
 
 ![Context Map](../../resources/context-map-cheat-sheet.png)*Crédito: Michael Plöd*
 
@@ -310,13 +310,13 @@ Antes de se comprometer com um projeto, tome decisões explícitas sobre as esco
 
 Projete de forma colaborativa e visual, e comece a considerar as limitações técnicas para que você possa descobrir restrições ou oportunidades.
 
-Como ponto de partida, recomendamos o ["Bounded Context Canvas"](https://github.com/ddd-crew/bounded-context-canvas).
+Como ponto de partida, recomendamos o ["Bounded Context Canvas" em português brasileiro](https://github.com/ddd-crew/bounded-context-canvas/blob/main/translations/pt-br/README.md).
 
 ![Bounded Context Canvas](resources/bounded-context-canvas-v5.jpg)
 
 #### Ferramentas
 
-- ["Bounded Context Canvas"](https://github.com/ddd-crew/bounded-context-canvas)
+- ["Bounded Context Canvas" em português brasileiro](https://github.com/ddd-crew/bounded-context-canvas/blob/main/translations/pt-br/README.md)
 - [Diagrama de contexto do sistema C4](https://c4model.com/#SystemContextDiagram)
 - ["Quality Storming"](https://speakerdeck.com/mploed/quality-storming)
 
@@ -332,13 +332,13 @@ Codifique o modelo de domínio.
 
 Alinhar o código ao domínio facilita a alteração do código quando o domínio muda. Ao modelar de forma colaborativa o espaço do problema com especialistas, os desenvolvedores têm a chance de aprender sobre o domínio e minimizar os mal-entendidos.
 
-Como ponto de partida, recomendamos o ["Aggregate Design Canvas"](https://github.com/ddd-crew/aggregate-design-canvas).
+Como ponto de partida, recomendamos o ["Aggregate Design Canvas" em português brasileiro](https://github.com/ddd-crew/aggregate-design-canvas/blob/main/translations/pt-br/README.md).
 
 !["Aggregate Design Canvas"](../../resources/aggregate-design-canvas-v1.jpg)
 
 #### Ferramentas
 
-- ["Aggregate Design Canvas"](https://github.com/ddd-crew/aggregate-design-canvas)
+- ["Aggregate Design Canvas" em português brasileiro](https://github.com/ddd-crew/aggregate-design-canvas/blob/main/translations/pt-br/README.md)
 - ["Diagramas de componentes C4"](https://c4model.com/#ComponentDiagram)
 - ["Design-Level EventStorming"](https://www.eventstorming.com/)
 - ["Event Modeling"](https://eventmodeling.org/posts/what-is-event-modeling/)
@@ -357,7 +357,6 @@ Como ponto de partida, recomendamos o ["Aggregate Design Canvas"](https://github
 Alguns de vocês devem ter notado algumas semelhanças com o livro de Eric Evans [Whirlpool Process](https://www.domainlanguage.com/ddd/whirlpool/). E, de fato, ambos são guias e não práticas recomendadas rígidas. Eles também são contínuos e iterativos.
 Mas o Processo Initial de DDD é mais agrangente do que o processo Whirlpool, pois visa à criação de uma arquitetura sociotécnica.  
 A figura abaixo mostra uma possível sobreposição entre os dois processos.  
-
 ![WhirlpoolVSStarter](../../resources/ENWhirlpoolVSStarter.jpg)  
 
 Não é preciso dizer que o processo Whirlpool de Eric Evan continua totalmente relevante até hoje e oferece às pessoas percepções e orientações muito valiosas sobre como explorar modelos.
