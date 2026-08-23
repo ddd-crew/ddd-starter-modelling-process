@@ -54,6 +54,7 @@ __Navigation:__
       - [Tools](#tools-6)
       - [Who to Involve](#who-to-involve-7)
     - [How the DDD Starter Modelling Process relates to the Whirlpool Process](#how-the-ddd-starter-modelling-process-relates-to-the-whirlpool-process)
+  - [Translations](#translations)
   - [Contributors](#contributors)
   - [Contributions and Feedback](#contributions-and-feedback)
 
