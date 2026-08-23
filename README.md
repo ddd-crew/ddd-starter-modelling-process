@@ -368,9 +368,10 @@ Thanks to all [existing and future contributors](https://github.com/ddd-crew/ddd
 
 - [Ciaran McNulty](https://github.com/ciaranmcnulty)
 - [Eduardo da Silva](https://github.com/emgsilva)
-- [Gien Verschatse](https://twitter.com/selketjah)
-- [James Morcom](https://twitter.com/morcs)
-- [Maxime Sanglan-Charlier](https://twitter.com/__MaxS__)
+- [Gien Verschatse](https://github.com/selketjah)
+- [James Morcom](https://github.com/morcs)
+- [Maxime Sanglan-Charlier](https://github.com/Max-Git)
+- [Javiera Javichi](https://github.com/javujavichi)
 
 ## Contributions and Feedback
 
