@@ -362,6 +362,15 @@ The picture below shows a possible overlap between the two processes.
 
 Needless to say that Eric Evan's Whirlpool process remains totally relevant today and gives people highly valuable insights and guidance on how to explore models.
 
+## Translations
+
+- [Spanish visual resources](translations/es/resources)
+- [French visual resources](translations/fr/resources)
+- [Italian visual resources](translations/it/resources)
+- [Korean visual resources](translations/kr/resources)
+- [Brazilian Portuguese (pt-BR) documentation](translations/pt-br/README.md)
+- [Taiwanese (zh-TW) documentation](translations/zh-tw/README.md)
+
 ## Contributors
 
 Thanks to all [existing and future contributors](https://github.com/ddd-crew/ddd-starter-modelling-process/graphs/contributors) and to the following individuals who have all contributed to the DDD Starter Modelling Process:
